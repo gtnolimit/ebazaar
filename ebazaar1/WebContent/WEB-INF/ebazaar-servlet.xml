@@ -7,30 +7,42 @@
 <props>
 <prop key="/home.htm">homePageController</prop>
 <prop key="/adminhome.htm">adminHomePageController</prop>
-<prop key="/newcustomer.htm">newCustomerController</prop>
+<prop key="/itemListing.htm">productListingPageController</prop>
 </props>
 </property>
 </bean>
 
-<bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+<bean id="viewResolver"
+    class="org.springframework.web.servlet.view.UrlBasedViewResolver">
+    <property name="viewClass">
+        <value>
+            org.springframework.web.servlet.view.tiles2.TilesView
+        </value>
+    </property>
+</bean>
+<bean id="tilesConfigurer"
+    class="org.springframework.web.servlet.view.tiles2.TilesConfigurer">
+    <property name="definitions">
+        <list>
+            <value>/WEB-INF/ebazaar-tiles.xml</value>
+        </list>
+    </property>
+</bean>
+<!-- <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
 <property name="prefix" value=""/>
 <property name="suffix" value=".jsp"/>
-</bean>
+</bean> -->
 
 <bean id="homePageController" class="com.ebazaar.controller.HomePageController">
 	<property name="homePageService" ref="homePageService"/>
 </bean>
 
 <bean id="adminHomePageController" class="org.springframework.web.servlet.mvc.ParameterizableViewController">
-<property name="viewName" value="admin/admin"/>
+	<property name="viewName" value="admin/admin"/>
 </bean>
 
-<bean id="newCustomerController" class="com.ebazaar.controller.NewCustomerController">
-<!-- property name="custRegService" ref="customerRegService"/ -->
-<!-- property name="formView" value="admin/newcustomer"/ -->
-<!-- property name="successView" value="admin/newcustomer-success"/ -->
-<!-- property name="commandName" value="customer"/ -->
-<!-- property name="commandClass" value="org.himu.ibank.domain.Customer"/ -->
+<bean id="productListingPageController" class="com.ebazaar.controller.ProductListingPageController">
+	<property name="productListingPageService" ref="productListingPageService"/>
 </bean>
 
 </beans>

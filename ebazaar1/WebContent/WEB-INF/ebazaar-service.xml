@@ -9,5 +9,10 @@
 		class="com.ebazaar.service.impl.HomePageServiceImpl">
 		<property name="homePageDAO" ref="homePageDAO" />
 	</bean>
-
+	
+	<bean id="productListingPageService"
+		class="com.ebazaar.service.impl.ProductListingPageServiceImpl">
+		<property name="productListingPageDAO" ref="productListingPageDAO" />
+	</bean>
+	
 </beans>

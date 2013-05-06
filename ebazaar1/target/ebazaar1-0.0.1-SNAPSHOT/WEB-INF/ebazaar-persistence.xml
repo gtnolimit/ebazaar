@@ -24,17 +24,26 @@
 		</property>
 		<property name="annotatedClasses">
 			<list>
-				<value>org.himu.ibank.domain.Customer</value>
 				<value>com.ebazaar.databaseobject.dto.Category</value>
 				<value>com.ebazaar.databaseobject.dto.SubCategory</value>
+				<value>com.ebazaar.databaseobject.dto.Product</value>
+				<value>com.ebazaar.databaseobject.dto.Item</value>
+				
 			</list>
 		</property>
 	</bean>
-	<bean id="customerDao" class="org.himu.ibank.dao.HibernateCustomerDao">
-		<property name="sessionFactory" ref="sessionFactory" />
-	</bean>
+	
+	
+	
+	<bean id="queryUtil" class = "com.ebazaar.databaseobject.query.HibernateQueryUtil" scope="singleton"/>
+	
 	<bean id="homePageDAO" class="com.ebazaar.dao.impl.HomePageDAOImpl">
 		<property name="sessionFactory" ref="sessionFactory" />
+		<property name="queryUtil" ref="queryUtil"/>
 	</bean>
-
+	
+	<bean id="productListingPageDAO" class="com.ebazaar.dao.impl.ProductListingPageDAOImpl">
+		<property name="sessionFactory" ref="sessionFactory" />
+		<property name="queryUtil" ref="queryUtil"/> 
+	</bean>			
 </beans>

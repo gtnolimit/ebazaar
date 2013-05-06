@@ -1,0 +1,3631 @@
+H1 {
+	LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; FONT-SIZE: 13pt
+}
+H2 {
+	FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; FONT-SIZE: 10pt
+}
+.header1 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+.header2 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #fff; FONT-SIZE: 14px; FONT-WEIGHT: bolder
+}
+.header3 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bolder
+}
+.header4 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #000; FONT-SIZE: 12px; FONT-WEIGHT: bolder
+}
+.header5 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #006; FONT-SIZE: 16px; FONT-WEIGHT: bolder
+}
+.header6 {
+	FONT-STYLE: normal; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 16px
+}
+.header7 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #fff; FONT-SIZE: 12px; FONT-WEIGHT: bolder
+}
+.header8 {
+	FONT-STYLE: normal; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 12px; FONT-WEIGHT: bolder
+}
+.home_container_hdr {
+	Z-INDEX: 100; POSITION: relative; MARGIN: 10px 10px 5px; COLOR: #4c4d4f; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.home_container_hdr A {
+	Z-INDEX: 100; POSITION: relative; MARGIN: 10px 10px 5px; COLOR: #4c4d4f; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.home_container_hdr A {
+	MARGIN: 0px; TEXT-DECORATION: underline
+}
+DIV.msg_block DIV {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 36px; PADDING-RIGHT: 15px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 10px 12px; PADDING-TOP: 10px
+}
+DIV.msg_block DIV UL {
+	MARGIN-TOP: 0px; PADDING-LEFT: 10px; MARGIN-LEFT: 10px; PADDING-TOP: 0px
+}
+DIV.msg_block DIV SPAN {
+	FONT-WEIGHT: bold
+}
+DIV.msg_info DIV {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/icon_message_info.gif); COLOR: #1d70c0
+}
+DIV.msg_info LI {
+	COLOR: #1d70c0
+}
+DIV.msg_error DIV {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/icon_message_error.gif); COLOR: #de0000
+}
+DIV.msg_error LI {
+	COLOR: #de0000
+}
+DIV.msg_warning DIV {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/icon_message_error.gif); COLOR: #de0000
+}
+DIV.msg_warning LI {
+	COLOR: #de0000
+}
+DIV.msg_success DIV {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/icon_message_success.gif); COLOR: #118608
+}
+DIV.msg_success LI {
+	COLOR: #118608
+}
+DIV.form_field_success {
+	COLOR: #118608; FONT-WEIGHT: bold
+}
+DIV.form_field_warning {
+	COLOR: #de0000; FONT-WEIGHT: bold
+}
+DIV.form_field_error {
+	COLOR: #de0000; FONT-WEIGHT: bold
+}
+DIV.facebook .pp_top .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -88px -53px
+}
+DIV.facebook .pp_top .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternTop.png) repeat-x left top
+}
+DIV.facebook .pp_top .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -110px -53px
+}
+DIV.facebook .pp_content .ppt {
+	COLOR: #000
+}
+DIV.facebook .pp_content_container .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternLeft.png) repeat-y left top
+}
+DIV.facebook .pp_content_container .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternRight.png) repeat-y right top
+}
+DIV.facebook .pp_content {
+	BACKGROUND: #fff
+}
+DIV.facebook .pp_expand {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -31px -26px; CURSOR: pointer
+}
+DIV.facebook .pp_expand:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -31px -47px; CURSOR: pointer
+}
+DIV.facebook .pp_contract {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -26px; CURSOR: pointer
+}
+DIV.facebook .pp_contract:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -47px; CURSOR: pointer
+}
+DIV.facebook .pp_close {
+	WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -1px -1px; HEIGHT: 22px; CURSOR: pointer
+}
+DIV.facebook #pp_full_res .pp_inline {
+	COLOR: #000
+}
+DIV.facebook .pp_loaderIcon {
+	BACKGROUND: url(../images/prettyPhoto/facebook/loader.gif) no-repeat center center
+}
+DIV.facebook .pp_nav .pp_arrow_previous {
+	MARGIN-TOP: 0px; WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat 0px -71px; HEIGHT: 22px
+}
+DIV.facebook .disabled.pp_arrow_previous {
+	BACKGROUND-POSITION: 0px -96px; CURSOR: default
+}
+DIV.facebook .pp_nav .pp_arrow_next {
+	MARGIN-TOP: 0px; WIDTH: 22px; BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -32px -71px; HEIGHT: 22px
+}
+DIV.facebook .disabled.pp_arrow_next {
+	BACKGROUND-POSITION: -32px -96px; CURSOR: default
+}
+DIV.facebook .pp_nav {
+	MARGIN-TOP: 0px
+}
+DIV.facebook .pp_nav P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 3px; FONT-SIZE: 15px; PADDING-TOP: 0px
+}
+DIV.facebook .pp_next:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/btnNext.png) no-repeat right center; CURSOR: pointer
+}
+DIV.facebook .pp_previous:hover {
+	BACKGROUND: url(../images/prettyPhoto/facebook/btnPrevious.png) no-repeat left center; CURSOR: pointer
+}
+DIV.facebook .pp_bottom .pp_left {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -88px -80px
+}
+DIV.facebook .pp_bottom .pp_middle {
+	BACKGROUND: url(../images/prettyPhoto/facebook/contentPatternBottom.png) repeat-x left top
+}
+DIV.facebook .pp_bottom .pp_right {
+	BACKGROUND: url(../images/prettyPhoto/facebook/sprite.png) no-repeat -110px -80px
+}
+DIV.pp_pic_holder A:focus {
+	OUTLINE-STYLE: none
+}
+DIV.pp_overlay {
+	Z-INDEX: 9500; POSITION: absolute; WIDTH: 100%; DISPLAY: none; BACKGROUND: #000; TOP: 0px; LEFT: 0px
+}
+DIV.pp_pic_holder {
+	Z-INDEX: 10000; POSITION: absolute; WIDTH: 100px; DISPLAY: none
+}
+.pp_top {
+	POSITION: relative; HEIGHT: 20px
+}
+* HTML .pp_top {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pp_top .pp_left {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; LEFT: 0px
+}
+.pp_top .pp_middle {
+	POSITION: absolute; HEIGHT: 20px; RIGHT: 20px; LEFT: 20px
+}
+* HTML .pp_top .pp_middle {
+	POSITION: static; LEFT: 0px
+}
+.pp_top .pp_right {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; RIGHT: 0px; LEFT: auto
+}
+.pp_content {
+	HEIGHT: 40px
+}
+.pp_content .ppt {
+	POSITION: relative; MARGIN-BOTTOM: 5px; TOP: auto; LEFT: auto
+}
+.pp_fade {
+	DISPLAY: none
+}
+.pp_content_container {
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 100%
+}
+.pp_content_container .pp_left {
+	PADDING-LEFT: 20px
+}
+.pp_content_container .pp_right {
+	PADDING-RIGHT: 20px
+}
+.pp_content_container .pp_details {
+	MARGIN: 10px 0px 2px
+}
+.pp_description {
+	MARGIN: 0px 0px 5px; DISPLAY: none
+}
+.pp_nav {
+	MARGIN: 3px 0px 0px; FLOAT: left; CLEAR: left
+}
+.pp_nav P {
+	MARGIN: 2px 4px; FLOAT: left
+}
+.pp_nav A.pp_arrow_previous {
+	MARGIN-TOP: 3px; TEXT-INDENT: -10000px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 15px; OVERFLOW: hidden
+}
+.pp_nav A.pp_arrow_next {
+	MARGIN-TOP: 3px; TEXT-INDENT: -10000px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 15px; OVERFLOW: hidden
+}
+.pp_hoverContainer {
+	Z-INDEX: 2000; POSITION: absolute; WIDTH: 100%; TOP: 0px
+}
+A.pp_next {
+	TEXT-INDENT: -10000px; WIDTH: 49%; DISPLAY: block; BACKGROUND: url(../images/prettyPhoto/light_rounded/btnNext.png) no-repeat 10000px 10000px; FLOAT: right; HEIGHT: 100%
+}
+A.pp_previous {
+	TEXT-INDENT: -10000px; WIDTH: 49%; DISPLAY: block; BACKGROUND: url(../images/prettyPhoto/light_rounded/btnNext.png) no-repeat 10000px 10000px; FLOAT: left; HEIGHT: 100%
+}
+A.pp_expand {
+	Z-INDEX: 20000; POSITION: absolute; TEXT-INDENT: -10000px; WIDTH: 20px; DISPLAY: none; HEIGHT: 20px; TOP: 10px; CURSOR: pointer; RIGHT: 30px
+}
+A.pp_contract {
+	Z-INDEX: 20000; POSITION: absolute; TEXT-INDENT: -10000px; WIDTH: 20px; DISPLAY: none; HEIGHT: 20px; TOP: 10px; CURSOR: pointer; RIGHT: 30px
+}
+A.pp_close {
+	TEXT-INDENT: -10000px; DISPLAY: block; FLOAT: right
+}
+.pp_bottom {
+	POSITION: relative; HEIGHT: 20px
+}
+* HTML .pp_bottom {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.pp_bottom .pp_left {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; LEFT: 0px
+}
+.pp_bottom .pp_middle {
+	POSITION: absolute; HEIGHT: 20px; RIGHT: 20px; LEFT: 20px
+}
+* HTML .pp_bottom .pp_middle {
+	POSITION: static; LEFT: 0px
+}
+.pp_bottom .pp_right {
+	POSITION: absolute; WIDTH: 20px; HEIGHT: 20px; TOP: 0px; RIGHT: 0px; LEFT: auto
+}
+.pp_loaderIcon {
+	POSITION: absolute; MARGIN: -12px 0px 0px -12px; WIDTH: 24px; DISPLAY: block; HEIGHT: 24px; TOP: 50%; LEFT: 50%
+}
+#pp_full_res {
+	LINE-HEIGHT: 1 !important
+}
+#pp_full_res .pp_inline {
+	TEXT-ALIGN: left
+}
+#pp_full_res .pp_inline P {
+	MARGIN: 0px 0px 15px
+}
+DIV.ppt {
+	Z-INDEX: 9999; POSITION: absolute; DISPLAY: none; COLOR: #fff; FONT-SIZE: 17px; TOP: 0px; LEFT: 0px
+}
+.clearfix:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.clearfix {
+	DISPLAY: inline-block
+}
+* HTML .clearfix {
+	HEIGHT: 1%
+}
+.clearfix {
+	DISPLAY: block
+}
+DIV {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 11px
+}
+P {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 11px
+}
+LI {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 11px
+}
+FONT {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 11px
+}
+TD {
+	LINE-HEIGHT: 16px; FONT-FAMILY: Arial,Helvetica,sans-serif; COLOR: #444; FONT-SIZE: 11px
+}
+BODY {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #f6f8fa; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	MARGIN: 9px 0px
+}
+IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.sprite_img {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/widget_sprite_4.png); ZOOM: 1; DISPLAY: inline; BACKGROUND-REPEAT: no-repeat; VERTICAL-ALIGN: middle
+}
+A .sprite_img {
+	CURSOR: pointer
+}
+.clear {
+	LINE-HEIGHT: 0; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.force-inline-block {
+	ZOOM: 1; DISPLAY: inline
+}
+A {
+	COLOR: #1d70c0; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+.reviews_stars {
+	BACKGROUND-IMAGE: url(/CustRev/pwr/engine/images/stars_small.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 0px; WIDTH: 85px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px -180px; HEIGHT: 15px; PADDING-TOP: 0px
+}
+.reviews_stars_45 {
+	BACKGROUND-POSITION: 0px -162px
+}
+.reviews_stars_40 {
+	BACKGROUND-POSITION: 0px -144px
+}
+.reviews_stars_35 {
+	BACKGROUND-POSITION: 0px -126px
+}
+.reviews_stars_30 {
+	BACKGROUND-POSITION: 0px -108px
+}
+.reviews_stars_25 {
+	BACKGROUND-POSITION: 0px -90px
+}
+.reviews_stars_20 {
+	BACKGROUND-POSITION: 0px -72px
+}
+.reviews_stars_15 {
+	BACKGROUND-POSITION: 0px -54px
+}
+.reviews_stars_10 {
+	BACKGROUND-POSITION: 0px -36px
+}
+.reviews_stars_5 {
+	BACKGROUND-POSITION: 0px -18px
+}
+.reviews_stars_0 {
+	BACKGROUND-POSITION: 0px 0px
+}
+#mid_body_content {
+	MARGIN-TOP: 15px; WIDTH: 960px; OVERFLOW: hidden
+}
+.two_col .col_large {
+	WIDTH: 774px; FLOAT: left
+}
+.three_col .col_large {
+	WIDTH: 590px; FLOAT: left
+}
+.col_small {
+	WIDTH: 170px; FLOAT: left
+}
+.quater_col_wrapper {
+	WIDTH: 774px; OVERFLOW: hidden
+}
+.quarter_col {
+	WIDTH: 380px; FLOAT: left
+}
+.right_margin {
+	MARGIN-RIGHT: 14px
+}
+.blue_header {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #1c70bf
+}
+.blue_header {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: -1px; BACKGROUND: url(//content.abt.com/media/images/blue_header_gradient.png) no-repeat; HEIGHT: 27px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.blue_header SPAN {
+	POSITION: absolute; WIDTH: 6px; DISPLAY: inline-block; BACKGROUND: url(//content.abt.com/media/images/blue_header_gradient.png) no-repeat right top; HEIGHT: 27px; OVERFLOW: hidden; TOP: 0px; RIGHT: 0px
+}
+.blue_header A {
+	COLOR: #fff
+}
+.glossy_box {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; MARGIN: 0px 0px 12px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.glossy_box .glossy_header {
+	BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff repeat-x 0px -10px; HEIGHT: 33px; COLOR: #444
+}
+.need_help_head.glossy_box {
+	POSITION: relative
+}
+.glossy_box .short.glossy_header {
+	HEIGHT: 27px
+}
+.glossy_box .glossy_header A {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.glossy_box .glossy_header A:hover {
+	COLOR: #444; TEXT-DECORATION: underline
+}
+.glossy_box .gh_text {
+	BORDER-BOTTOM: #e5e5e5 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.glossy_box .gh_big_text {
+	BORDER-BOTTOM: #e5e5e5 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 33px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 19px; FONT-WEIGHT: lighter; PADDING-TOP: 0px
+}
+.glossy_box .corner-tl {
+	BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossy_box .corner-tr {
+	BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossy_box .corner-bl {
+	BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossy_box .corner-br {
+	BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossy_box .corner-tl {
+	BACKGROUND-POSITION: 0px 0px; TOP: -1px; LEFT: -1px
+}
+.glossy_box .corner-tr {
+	BACKGROUND-POSITION: -5px 0px; TOP: -1px; RIGHT: -1px
+}
+.glossy_box .glossy_body P {
+	MARGIN: 0px 0px 10px
+}
+.glossy_box .glossy_body UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 10px 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossy_box .glossy_content_pad {
+	PADDING-BOTTOM: 16px; PADDING-LEFT: 16px; PADDING-RIGHT: 16px; PADDING-TOP: 16px
+}
+.glossy_box .need_help {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.glossy_box .glossy_links A {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; COLOR: #444; TEXT-DECORATION: none; PADDING-TOP: 4px
+}
+.glossy_box .glossy_links A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+#cart_items_expander {
+	DISPLAY: none
+}
+#cart_items_see_more {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: none; BACKGROUND: #eee; FONT-SIZE: 11px; PADDING-TOP: 2px
+}
+#cart_items_list {
+	OVERFLOW: hidden
+}
+TABLE.product_discount_adverts {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; BACKGROUND-COLOR: #f9f9f9; BORDER-SPACING: 0; BORDER-COLLAPSE: collapse; MARGIN-LEFT: 10px
+}
+TABLE.product_discount_adverts TD {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 6px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 6px
+}
+TABLE.product_discount_adverts IMG {
+	POSITION: absolute
+}
+TABLE.product_discount_adverts DIV:hover {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+TABLE.product_discount_adverts DIV {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+TABLE.product_discount_adverts A {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+TABLE.product_discount_adverts A:hover {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+TABLE.product_discount_adverts A:hover {
+	TEXT-DECORATION: underline !important
+}
+.product_discount_adverts_link:hover {
+	CURSOR: pointer; TEXT-DECORATION: underline !important
+}
+A.cart_items_expander {
+	MARGIN-TOP: 2px; WIDTH: 13px; BACKGROUND-REPEAT: no-repeat; FLOAT: right; HEIGHT: 13px
+}
+A.cart_items_expander_minus {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/filter_minus.jpg)
+}
+A.cart_items_expander_plus {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/filter_plus.jpg)
+}
+UL.more_ways_to_save {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 22px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+UL.more_ways_to_save LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: url(//content.abt.com/media/images/list_icon_check_off.gif); PADDING-TOP: 0px
+}
+LI.more_ways_to_save_checked {
+	LIST-STYLE-IMAGE: url(//content.abt.com/media/images/list_icon_check.gif) !important
+}
+LI.discount_details_link {
+	CURSOR: pointer; TEXT-DECORATION: none
+}
+LI.discount_details_link:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+A.mwts_expander {
+	MARGIN-TOP: 2px; WIDTH: 13px; BACKGROUND-REPEAT: no-repeat; FLOAT: right; HEIGHT: 13px; CURSOR: default
+}
+A.mwts_expander_minus {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/filter_minus.jpg); CURSOR: pointer
+}
+A.mwts_expander_plus {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/filter_plus.jpg); CURSOR: pointer
+}
+#mwts_list {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+UL.bundle_list {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/bundle_arrow.jpg); LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 30px; BACKGROUND-REPEAT: no-repeat
+}
+UL.bundle_list LI {
+	POSITION: relative; LINE-HEIGHT: normal
+}
+UL.bundle_list IMG.clk_intercept {
+	POSITION: absolute; WIDTH: 12px; HEIGHT: 14px; TOP: 4px; CURSOR: pointer; LEFT: -19px
+}
+.nh_box {
+	BORDER-BOTTOM: #cdcdcd 1px solid; POSITION: relative; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: 87px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 10px
+}
+.nh_container {
+	WIDTH: 170px; HEIGHT: 109px; OVERFLOW: hidden
+}
+.nh_header {
+	Z-INDEX: 150; COLOR: #000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.nh_header A {
+	COLOR: #000
+}
+.nh_body {
+	LINE-HEIGHT: 12px; MARGIN: 5px 0px 10px; COLOR: #000; FONT-WEIGHT: bold
+}
+.rounded_tl {
+	POSITION: absolute; WIDTH: 3px; BACKGROUND: url(//content.abt.com/media/images/layout/rounded_border.png) no-repeat 0px 0px; HEIGHT: 3px
+}
+.rounded_tr {
+	POSITION: absolute; WIDTH: 3px; BACKGROUND: url(//content.abt.com/media/images/layout/rounded_border.png) no-repeat 0px 0px; HEIGHT: 3px
+}
+.rounded_bl {
+	POSITION: absolute; WIDTH: 3px; BACKGROUND: url(//content.abt.com/media/images/layout/rounded_border.png) no-repeat 0px 0px; HEIGHT: 3px
+}
+.rounded_br {
+	POSITION: absolute; WIDTH: 3px; BACKGROUND: url(//content.abt.com/media/images/layout/rounded_border.png) no-repeat 0px 0px; HEIGHT: 3px
+}
+.rounded_tl {
+	BACKGROUND-POSITION: 0px 0px; TOP: -1px; LEFT: -1px
+}
+.rounded_tr {
+	BACKGROUND-POSITION: 0px -3px; TOP: -1px; RIGHT: -1px
+}
+.rounded_bl {
+	BOTTOM: -1px; BACKGROUND-POSITION: 0px -6px; LEFT: -1px
+}
+.rounded_br {
+	BOTTOM: -1px; BACKGROUND-POSITION: 0px -9px; RIGHT: -1px
+}
+FIELDSET {
+	PADDING-BOTTOM: 3px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 3px; WIDTH: 90%; PADDING-RIGHT: 3px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 3px
+}
+FIELDSET .label {
+	WIDTH: 30%; DISPLAY: block; FLOAT: left; PADDING-TOP: 2px
+}
+FIELDSET .field {
+	WIDTH: 70%; FLOAT: left
+}
+FIELDSET INPUT[type='text'] {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 11px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 3px
+}
+FIELDSET INPUT[type='password'] {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 11px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 3px
+}
+.button {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px !important; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FONT-FAMILY: Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat 0px -22px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 22px; COLOR: #000 !important; FONT-SIZE: 12px !important; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.button:link {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px !important; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FONT-FAMILY: Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat 0px -22px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 22px; COLOR: #000 !important; FONT-SIZE: 12px !important; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.button:visited {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px !important; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FONT-FAMILY: Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat 0px -22px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 22px; COLOR: #000 !important; FONT-SIZE: 12px !important; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.button:hover {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px !important; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FONT-FAMILY: Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat 0px -22px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 22px; COLOR: #000 !important; FONT-SIZE: 12px !important; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.button:active {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 22px !important; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FONT-FAMILY: Arial,Helvetica,sans-serif; WHITE-SPACE: nowrap; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat 0px -22px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 22px; COLOR: #000 !important; FONT-SIZE: 12px !important; VERTICAL-ALIGN: top; BORDER-LEFT-WIDTH: 0px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.button SPAN {
+	POSITION: absolute; WIDTH: 2px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/layout/sprite_site_buttons.gif) no-repeat -298px -22px; HEIGHT: 22px; OVERFLOW: hidden; TOP: 0px; CURSOR: pointer; RIGHT: -2px
+}
+BUTTON.button {
+	OVERFLOW: visible !important
+}
+* HTML BUTTON.button {
+	OVERFLOW-X: visible !important; OVERFLOW-Y: hidden !important
+}
+BUTTON.button SPAN:unknown {
+	TOP: 0px; RIGHT: 8px
+}
+BUTTON.button:unknown {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.button:hover {
+	BACKGROUND-POSITION: 0px -44px
+}
+.button:active {
+	BACKGROUND-POSITION: 0px -44px
+}
+.button:hover SPAN {
+	BACKGROUND-POSITION: -298px -44px
+}
+.button:active SPAN {
+	BACKGROUND-POSITION: -298px -44px
+}
+.disabled.button {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button:link {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button:visited {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button:hover {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button:active {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button SPAN {
+	OUTLINE-STYLE: none; BACKGROUND-POSITION: 0px 0px; COLOR: #bcbdc0 !important; CURSOR: default
+}
+.disabled.button SPAN {
+	BACKGROUND-POSITION: -298px 0px
+}
+.green.button {
+	BACKGROUND-POSITION: 0px -66px; COLOR: #fff !important
+}
+.green.button:link {
+	BACKGROUND-POSITION: 0px -66px; COLOR: #fff !important
+}
+.green.button:visited {
+	BACKGROUND-POSITION: 0px -66px; COLOR: #fff !important
+}
+.green.button:hover {
+	BACKGROUND-POSITION: 0px -66px; COLOR: #fff !important
+}
+.green.button:active {
+	BACKGROUND-POSITION: 0px -66px; COLOR: #fff !important
+}
+.green.button SPAN {
+	BACKGROUND-POSITION: -298px -66px
+}
+.green.button:hover {
+	BACKGROUND-POSITION: 0px -88px
+}
+.green.button:active {
+	BACKGROUND-POSITION: 0px -88px
+}
+.green.button:hover SPAN {
+	BACKGROUND-POSITION: -298px -88px
+}
+.green.button:active SPAN {
+	BACKGROUND-POSITION: -298px -88px
+}
+.orange.button {
+	BACKGROUND-POSITION: 0px -110px; COLOR: #fff !important
+}
+.orange.button:link {
+	BACKGROUND-POSITION: 0px -110px; COLOR: #fff !important
+}
+.orange.button:visited {
+	BACKGROUND-POSITION: 0px -110px; COLOR: #fff !important
+}
+.orange.button:hover {
+	BACKGROUND-POSITION: 0px -110px; COLOR: #fff !important
+}
+.orange.button:active {
+	BACKGROUND-POSITION: 0px -110px; COLOR: #fff !important
+}
+.orange.button SPAN {
+	BACKGROUND-POSITION: -298px -110px
+}
+.orange.button:hover {
+	BACKGROUND-POSITION: 0px -132px
+}
+.orange.button:active {
+	BACKGROUND-POSITION: 0px -132px
+}
+.orange.button:hover SPAN {
+	BACKGROUND-POSITION: -298px -132px
+}
+.orange.button:active SPAN {
+	BACKGROUND-POSITION: -298px -132px
+}
+.blue.button {
+	BACKGROUND-POSITION: 0px -154px; COLOR: #fff !important
+}
+.blue.button:link {
+	BACKGROUND-POSITION: 0px -154px; COLOR: #fff !important
+}
+.blue.button:visited {
+	BACKGROUND-POSITION: 0px -154px; COLOR: #fff !important
+}
+.blue.button:hover {
+	BACKGROUND-POSITION: 0px -154px; COLOR: #fff !important
+}
+.blue.button:active {
+	BACKGROUND-POSITION: 0px -154px; COLOR: #fff !important
+}
+.blue.button SPAN {
+	BACKGROUND-POSITION: -298px -154px
+}
+.blue.button:hover {
+	BACKGROUND-POSITION: 0px -176px
+}
+.blue.button:active {
+	BACKGROUND-POSITION: 0px -176px
+}
+.blue.button:hover SPAN {
+	BACKGROUND-POSITION: -298px -176px
+}
+.blue.button:active SPAN {
+	BACKGROUND-POSITION: -298px -176px
+}
+.grey.button {
+	BACKGROUND-POSITION: 0px -198px; COLOR: #fff !important
+}
+.grey.button:link {
+	BACKGROUND-POSITION: 0px -198px; COLOR: #fff !important
+}
+.grey.button:visited {
+	BACKGROUND-POSITION: 0px -198px; COLOR: #fff !important
+}
+.grey.button:hover {
+	BACKGROUND-POSITION: 0px -198px; COLOR: #fff !important
+}
+.grey.button:active {
+	BACKGROUND-POSITION: 0px -198px; COLOR: #fff !important
+}
+.grey.button SPAN {
+	BACKGROUND-POSITION: -298px -198px
+}
+.grey.button:hover {
+	BACKGROUND-POSITION: 0px -220px
+}
+.grey.button:active {
+	BACKGROUND-POSITION: 0px -220px
+}
+.grey.button:hover SPAN {
+	BACKGROUND-POSITION: -298px -220px
+}
+.grey.button:active SPAN {
+	BACKGROUND-POSITION: -298px -220px
+}
+#page_breadcrumb .divider {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+.page_header {
+	POSITION: relative; LINE-HEIGHT: 22px; MARGIN: 14px 0px; FONT-SIZE: 22px; FONT-WEIGHT: normal
+}
+.rn_bg_container {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 100%; PADDING-TOP: 0px
+}
+.guide_container {
+	BORDER-BOTTOM: #ececec 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-LEFT: -10px; MARGIN-RIGHT: -10px; PADDING-TOP: 10px
+}
+.guide_img_container {
+	WIDTH: 65px; FLOAT: left
+}
+.guide_content {
+	LINE-HEIGHT: 14px; WIDTH: 80px; FLOAT: left
+}
+.guide_content_hdr {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+.inv_status_instock {
+	COLOR: #388c02; FONT-WEIGHT: bold
+}
+.inv_status_unavailable {
+	COLOR: #f00; FONT-WEIGHT: bold
+}
+.inv_status_backorder {
+	COLOR: #e18503; FONT-WEIGHT: bold
+}
+.placeholder {
+	COLOR: #aaa
+}
+#nxt-search-box:focus {
+	OUTLINE-STYLE: none
+}
+#ui-active-menuitem {
+	BACKGROUND-COLOR: #e0e0e0; COLOR: black
+}
+.ui-autocomplete {
+	Z-INDEX: 1050; BORDER-BOTTOM: black 1px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; FONT-SIZE: 10pt; OVERFLOW: hidden; BORDER-TOP: black 1px solid; CURSOR: pointer; BORDER-RIGHT: black 1px solid; PADDING-TOP: 0px
+}
+.ui-autocomplete .ui-menu-item {
+	TEXT-ALIGN: left; LIST-STYLE-TYPE: none; FONT-FAMILY: Arial; WHITE-SPACE: nowrap
+}
+.ui-autocomplete .productsItem {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.ui-autocomplete .productsItem IMG {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 50px; HEIGHT: 50px; VERTICAL-ALIGN: middle; BORDER-TOP: #c0c0c0 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #c0c0c0 1px solid
+}
+.ui-autocomplete A {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; DISPLAY: block; TEXT-DECORATION: none; PADDING-TOP: 0.2em
+}
+.ui-autocomplete .termsHeader {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; COLOR: #7c7a7f; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.ui-autocomplete .productsHeader {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; COLOR: #7c7a7f; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.ui-autocomplete {
+	Z-INDEX: 100050 !important; BORDER-BOTTOM-COLOR: #cdcdcd; PADDING-BOTTOM: 0px !important; BORDER-TOP-COLOR: #cdcdcd; PADDING-LEFT: 0px !important; WIDTH: 310px !important; PADDING-RIGHT: 0px !important; BORDER-RIGHT-COLOR: #cdcdcd; BORDER-LEFT-COLOR: #cdcdcd; PADDING-TOP: 0px !important
+}
+.ui-autocomplete LI.ui-menu-item {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-autocomplete LI.ui-menu-item A {
+	WHITE-SPACE: normal; OVERFLOW: hidden
+}
+.ui-autocomplete LI.productsItem {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 0px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-RIGHT: #ccc 0px solid; PADDING-TOP: 0px
+}
+.ui-autocomplete LI.productsItem IMG {
+	FLOAT: left
+}
+.ui-autocomplete .productsHeader {
+	BORDER-TOP: #cdcdcd 1px solid
+}
+.ui-autocomplete LI.ui-menu-item {
+	BACKGROUND-COLOR: #f5f5f5 !important
+}
+.ac_results {
+	Z-INDEX: 99999; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; PADDING-TOP: 0px
+}
+.ac_results UL {
+	LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ac_results LI {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; FONT: menu; FONT-SIZE: 12px; OVERFLOW: hidden; CURSOR: default; PADDING-TOP: 2px
+}
+.ac_loading {
+	BACKGROUND-COLOR: white
+}
+.ac_odd {
+	BACKGROUND-COLOR: #eee
+}
+.ac_over {
+	BACKGROUND-COLOR: #0a246a; COLOR: white
+}
+#abt_main_shell {
+	BACKGROUND-COLOR: white; MARGIN: 0px auto; WIDTH: 1000px; OVERFLOW: hidden
+}
+#abt_main_shell .tl {
+	WIDTH: 21px; BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat -406px -102px; FLOAT: left; HEIGHT: 21px
+}
+#abt_main_shell .tm {
+	WIDTH: 958px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x left top; FLOAT: left; HEIGHT: 21px
+}
+#abt_main_shell .tr {
+	Z-INDEX: 2; POSITION: relative; WIDTH: 21px; BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat -427px -102px; FLOAT: left; HEIGHT: 21px
+}
+#abt_main_shell .shell_content {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 21px; WIDTH: 958px; PADDING-RIGHT: 21px; BACKGROUND: url(//content.abt.com/media/images/layout/shell_bg.png) repeat-y left top; CLEAR: left; PADDING-TOP: 0px
+}
+#abt_main_shell .bl {
+	WIDTH: 21px; BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat -406px -123px; FLOAT: left; HEIGHT: 21px; CLEAR: both
+}
+#abt_main_shell .bm {
+	WIDTH: 958px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x 0px -26px; FLOAT: left; HEIGHT: 21px
+}
+#abt_main_shell .br {
+	WIDTH: 21px; BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat -427px -123px; FLOAT: left; HEIGHT: 21px
+}
+#page_header_l {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 62px; PADDING-LEFT: 4px; WIDTH: 320px; PADDING-RIGHT: 0px; FLOAT: left; COLOR: #1271c3; FONT-SIZE: 13px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+#page_header_l SPAN {
+	MARGIN-TOP: -5px; MARGIN-RIGHT: 19px
+}
+#page_header_l A:hover {
+	TEXT-DECORATION: none
+}
+#page_header_r {
+	WIDTH: 625px; MARGIN-BOTTOM: 6px; FLOAT: right
+}
+#top_shortcuts {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+#top_shortcuts A {
+	LINE-HEIGHT: 14px; FLOAT: left; MARGIN-LEFT: 18px; FONT-WEIGHT: bold
+}
+#top_contact {
+	WIDTH: 275px; FLOAT: left
+}
+#top_search {
+	MARGIN-TOP: 1px; WIDTH: 330px; FLOAT: right; MARGIN-RIGHT: -1px
+}
+#search_left_cap {
+	WIDTH: 5px; ZOOM: 1; DISPLAY: inline; HEIGHT: 24px; VERTICAL-ALIGN: middle
+}
+#search_right_cap {
+	WIDTH: 5px; ZOOM: 1; DISPLAY: inline; HEIGHT: 24px; VERTICAL-ALIGN: middle
+}
+#search_right_cap {
+	BACKGROUND-POSITION: -459px -112px; MARGIN-RIGHT: 8px
+}
+#top_search INPUT {
+	BORDER-BOTTOM: #dadbe0 1px solid; BORDER-LEFT: #dadbe0 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; WIDTH: 210px; PADDING-RIGHT: 1px; HEIGHT: 20px; FONT-SIZE: 15px; VERTICAL-ALIGN: middle; BORDER-TOP: #dadbe0 1px solid; BORDER-RIGHT: #dadbe0 1px solid; PADDING-TOP: 1px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px
+}
+#top_contact_l {
+	TEXT-ALIGN: center
+}
+#top_contact_r {
+	WIDTH: 56px; FLOAT: left
+}
+#top_contact_support {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+#top_contact_call {
+	LINE-HEIGHT: 20px; FONT-SIZE: 12px
+}
+#top_contact_call SPAN {
+	COLOR: #0153a5; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+#top_contact_call .bold_chat {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 28px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/layout/75years_sprite.png) no-repeat 0px -130px; PADDING-TOP: 2px
+}
+#top_contact_chicagoland {
+	MARGIN-TOP: -1px; FONT-SIZE: 11px
+}
+#top_account {
+	TEXT-ALIGN: right; MARGIN-TOP: -16px; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+#top_account .divider {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 0px
+}
+#topNav {
+	MARGIN-LEFT: -11px; MARGIN-RIGHT: -12px
+}
+#top_nav_banners {
+	BORDER-BOTTOM: #eee 1px solid; WIDTH: 982px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x 0px -93px; HEIGHT: 35px; MARGIN-LEFT: -11px; OVERFLOW: hidden; MARGIN-RIGHT: -13px
+}
+#top_nav_banners .divider {
+	WIDTH: 2px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x 0px -137px; FLOAT: left; HEIGHT: 35px
+}
+IMG.top_nav_banner {
+	BORDER-RIGHT-WIDTH: 0px; WIDTH: 490px; DISPLAY: block; FLOAT: left; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 35px; BORDER-LEFT-WIDTH: 0px
+}
+#abt_logo {
+	WIDTH: 85px; HEIGHT: 62px
+}
+#shopping_cart_img {
+	WIDTH: 100px; BACKGROUND-POSITION: -152px -30px; HEIGHT: 14px
+}
+#live_chat_img {
+	WIDTH: 56px; BACKGROUND-POSITION: -90px 0px; HEIGHT: 39px
+}
+#search_img {
+	WIDTH: 93px; BACKGROUND-POSITION: -151px 0px; HEIGHT: 24px
+}
+#lock_img {
+	WIDTH: 12px; BACKGROUND-POSITION: -334px -96px; HEIGHT: 14px; MARGIN-RIGHT: 5px
+}
+#dotd_banner {
+	LINE-HEIGHT: 35px; BACKGROUND-COLOR: #fff; WIDTH: 489px; FLOAT: left; HEIGHT: 35px; OVERFLOW: hidden; CURSOR: pointer
+}
+#dotd_img_text {
+	FLOAT: left; HEIGHT: 35px
+}
+#dotd_prod {
+	FLOAT: left; HEIGHT: 35px
+}
+#dotd_desc {
+	FLOAT: left; HEIGHT: 35px
+}
+#dotd_price {
+	FLOAT: left; HEIGHT: 35px
+}
+#dotd_savings {
+	FLOAT: left; HEIGHT: 35px
+}
+#dotd_img_text {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/widget_sprite_4.png); MARGIN: 8px 0px 0px 8px; WIDTH: 115px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: -246px -120px; HEIGHT: 18px
+}
+#dotd_prod {
+	TEXT-ALIGN: center; WIDTH: 60px
+}
+#dotd_prod IMG {
+	MARGIN: 2px 5px 0px
+}
+#dotd_desc {
+	WIDTH: 145px; MARGIN-LEFT: 15px
+}
+#dotd_price {
+	WIDTH: 65px; FONT-SIZE: 15px; PADDING-TOP: 10px
+}
+#dotd_savings {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/widget_sprite_4.png); TEXT-ALIGN: center; MARGIN-TOP: 8px; WIDTH: 77px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: -243px -140px; HEIGHT: 19px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 1px
+}
+#dotd_outer {
+	WIDTH: 100%; DISPLAY: table; HEIGHT: 100%
+}
+*:first-child + HTML #dotd_outer {
+	POSITION: relative
+}
+* HTML #dotd_outer {
+	POSITION: relative
+}
+#dotd_middle {
+	TEXT-ALIGN: center; WIDTH: 100%; DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+*:first-child + HTML #dotd_middle {
+	POSITION: absolute; TOP: 50%
+}
+* HTML #dotd_middle {
+	POSITION: absolute; TOP: 50%
+}
+#dotd_inner {
+	TEXT-ALIGN: left; LINE-HEIGHT: 13px; FONT-SIZE: 11px
+}
+*:first-child + HTML #dotd_inner {
+	POSITION: relative; TOP: -50%
+}
+* HTML #dotd_inner {
+	POSITION: relative; TOP: -50%
+}
+.ac_odd {
+	BACKGROUND-COLOR: #fff
+}
+.ac_over {
+	BACKGROUND-COLOR: #478dd0
+}
+.global-discount-banner {
+	TEXT-ALIGN: center; MARGIN: 15px 0px 5px
+}
+#topNav {
+	TEXT-ALIGN: left
+}
+#topNav IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+#topNav TD {
+	BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat right top; VERTICAL-ALIGN: middle
+}
+#topNav TD:hover {
+	BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat right bottom
+}
+#topNav .over {
+	BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat right bottom
+}
+#topNav .flyoutPosition {
+	Z-INDEX: 5555; POSITION: relative
+}
+#topNav .top_cat_link {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; LINE-HEIGHT: 25px; PADDING-LEFT: 10px; PADDING-RIGHT: 20px; DISPLAY: block; COLOR: #fff; FONT-SIZE: 11px; TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+#topNav .top_cat_link_alt {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; LINE-HEIGHT: 12px; PADDING-LEFT: 10px; PADDING-RIGHT: 20px; DISPLAY: block; COLOR: #fff; FONT-SIZE: 11px; TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+#topNav .topNavFlyout {
+	POSITION: absolute; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; BACKGROUND: url(//content.abt.com/media/images/top_navigation_background.png) no-repeat right bottom; VISIBILITY: hidden; TOP: 35px; PADDING-TOP: 0px
+}
+#topNav TD:hover .topNavFlyout {
+	VISIBILITY: visible
+}
+#topNav .flyoutLeft {
+	LEFT: 0px
+}
+#topNav .flyoutRight {
+	RIGHT: -5px
+}
+#topNav .topNavHeader {
+	BORDER-BOTTOM: #eee 1px solid; TEXT-ALIGN: center; PADDING-BOTTOM: 6px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #444; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 6px
+}
+#topNav .topNavFlyoutInner {
+	BORDER-LEFT: #ddd 1px solid; BACKGROUND: url(//content.abt.com/media/images/flyout_nav_background.png) #fff repeat-x left bottom; OVERFLOW: hidden
+}
+#topNav .topNavFlyoutColumn {
+	WIDTH: 200px; BACKGROUND: url(//content.abt.com/media/images/layout/widget_sprite_4.png) no-repeat 0px -170px; FLOAT: left
+}
+#topNav .end.topNavFlyoutColumn {
+	BACKGROUND-IMAGE: none
+}
+#topNav .topNavFlyoutColumn {
+	WIDTH: 200px; FLOAT: left
+}
+#topNav .categories_listing {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 1; LIST-STYLE-TYPE: none; MARGIN: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-TOP: 0px
+}
+#topNav LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#topNav .cl_link {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 16px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #444; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+#topNav .cl_link:hover {
+	BACKGROUND-COLOR: #eaeef5; COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+#topNav .more_link {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #1d70c0; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+#topNav .more_link:hover {
+	BACKGROUND-COLOR: #eaeef5; TEXT-DECORATION: underline
+}
+#topNav .sg_link {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #444; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+#topNav .sg_link:hover {
+	BACKGROUND-COLOR: #eaeef5; COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+#topNav .title {
+	BORDER-BOTTOM: #eee 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 5px; COLOR: #1d70c0; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#topNav .title A {
+	DISPLAY: inline; COLOR: #1d70c0; TEXT-DECORATION: none
+}
+#topNav .title A:hover {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #1d70c0; TEXT-DECORATION: underline; PADDING-TOP: 0px
+}
+#topNav .title2 {
+	BORDER-BOTTOM: #eee 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 5px; COLOR: #444; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#page_footer .clear {
+	CLEAR: both
+}
+#page_footer IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT-WIDTH: 0px
+}
+#footer_pleasing {
+	TEXT-ALIGN: center; LINE-HEIGHT: 35px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x 0px -52px; HEIGHT: 35px; COLOR: #f3f3f3; MARGIN-LEFT: -11px; FONT-SIZE: 18px; OVERFLOW: hidden; MARGIN-RIGHT: -13px
+}
+#sub_footer {
+	PADDING-BOTTOM: 0px; MARGIN: 0px -12px 0px -11px; PADDING-LEFT: 11px; WIDTH: 970px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/layout/repeat_x_sprite.png) repeat-x 0px -361px; OVERFLOW: hidden; PADDING-TOP: 17px
+}
+#footer_l {
+	MARGIN-TOP: 5px; WIDTH: 180px; FLOAT: left
+}
+#footer_r {
+	WIDTH: 780px; FLOAT: right
+}
+#footer_groupings {
+	WIDTH: 780px; HEIGHT: 140px
+}
+#lr_footer {
+	WIDTH: 780px
+}
+.footer_grouping {
+	BORDER-LEFT: #e5e9ee 1px solid; PADDING-LEFT: 10px; WIDTH: 142px; FLOAT: right; HEIGHT: 120px
+}
+#footer_groupings A {
+	LINE-HEIGHT: 16px; WIDTH: 130px; DISPLAY: block; COLOR: #444; OVERFLOW: hidden
+}
+.footer_header {
+	PADDING-BOTTOM: 2px; COLOR: #1d70c0; FONT-WEIGHT: bold
+}
+#footer_groupings .newsletter {
+	WIDTH: 270px
+}
+#newsletter_img {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+#footer_groupings .newsletter_header SPAN {
+	DISPLAY: block; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#footer_groupings .newsletter_header {
+	COLOR: #1d70c0; FONT-WEIGHT: bold
+}
+#footer_groupings .newsletter INPUT {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; WIDTH: 168px; FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; BORDER-TOP: #ccc 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #ccc 1px solid
+}
+#footer_groupings .newsletter A {
+	MARGIN-TOP: 5px; DISPLAY: block; COLOR: #444
+}
+#footer_groupings .newsletter A:hover {
+	COLOR: #444
+}
+#footer_groupings .newsletter_header .newsletter_link {
+	PADDING-BOTTOM: 0px !important; MARGIN: 0px; PADDING-LEFT: 0px !important; WIDTH: auto !important; PADDING-RIGHT: 0px !important; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #1d70c0 !important; PADDING-TOP: 0px !important
+}
+#site_certifications {
+	WIDTH: 420px; FLOAT: left; OVERFLOW: hidden
+}
+#site_certifications DIV.scanalert {
+	MARGIN: 0px 4px; FLOAT: left; HEIGHT: 72px
+}
+#site_certifications DIV.bbb {
+	MARGIN: 0px 4px; FLOAT: left; HEIGHT: 72px
+}
+#site_certifications DIV.verisign {
+	MARGIN: 0px 4px; FLOAT: left; HEIGHT: 72px
+}
+#site_certifications DIV.bizrate {
+	MARGIN: 0px 4px; FLOAT: left; HEIGHT: 72px
+}
+#site_certifications DIV.stella {
+	MARGIN: 0px 4px; FLOAT: left; HEIGHT: 72px
+}
+#site_certifications DIV.scanalert {
+	MARGIN-TOP: 13px; HEIGHT: 30px; MARGIN-LEFT: 0px
+}
+#footer_contact {
+	WIDTH: 350px; FLOAT: right; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px
+}
+#footer_shortcuts A {
+	MARGIN: 0px 15px; FONT-SIZE: 10px
+}
+#footer_shortcuts .last {
+	MARGIN-RIGHT: 0px
+}
+#footer_social {
+	LINE-HEIGHT: 20px; HEIGHT: 20px; COLOR: #686868; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+#footer_social {
+	TEXT-ALIGN: right; MARGIN-TOP: 5px; WIDTH: 350px; PADDING-RIGHT: 5px; FLOAT: right
+}
+#footer_shortcuts {
+	TEXT-ALIGN: right; MARGIN-TOP: 5px; WIDTH: 350px; PADDING-RIGHT: 5px; FLOAT: right
+}
+#footer_phone {
+	TEXT-ALIGN: right; MARGIN-TOP: 5px; WIDTH: 350px; PADDING-RIGHT: 5px; FLOAT: right
+}
+#footer_social DIV.google1 {
+	DISPLAY: inline; CLEAR: all; VERTICAL-ALIGN: bottom; MARGIN-RIGHT: 5px
+}
+#footer_social DIV.google1 SPAN {
+	VERTICAL-ALIGN: bottom
+}
+#footer_phone {
+	LINE-HEIGHT: 120%; FONT-SIZE: 10px
+}
+#phone_code {
+	BACKGROUND-COLOR: #f6f8fa; WIDTH: 100%; OVERFLOW: hidden
+}
+#phone_code_inner {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 7px; FLOAT: right; FONT-SIZE: 10px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 10px; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 2px
+}
+#phone_code SPAN {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: #bf1c1c; COLOR: #fff; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+#newsletter_img {
+	MARGIN-TOP: 6px; WIDTH: 35px; BACKGROUND-POSITION: -368px -119px; HEIGHT: 24px
+}
+#newsletter_submit_img {
+	WIDTH: 17px; BACKGROUND-POSITION: -312px -96px; HEIGHT: 17px
+}
+#bbb_img {
+	WIDTH: 34px; BACKGROUND-POSITION: -359px -37px; HEIGHT: 54px; CURSOR: pointer
+}
+#verisign_img {
+	WIDTH: 96px; BACKGROUND-POSITION: -258px -37px; HEIGHT: 54px
+}
+#footer_social .sprite_img {
+	WIDTH: 22px; HEIGHT: 20px; MARGIN-RIGHT: 5px
+}
+#facebook_img {
+	BACKGROUND-POSITION: -90px -56px
+}
+#gplus_img {
+	BACKGROUND-POSITION: -117px -56px
+}
+#twitter_img {
+	BACKGROUND-POSITION: -144px -56px
+}
+#pintrest_img {
+	BACKGROUND-POSITION: -171px -56px
+}
+#youtube_img {
+	BACKGROUND-POSITION: -198px -56px
+}
+#blog_img {
+	WIDTH: 55px !important; BACKGROUND-POSITION: -252px -93px
+}
+#ui-active-menuitem {
+	BACKGROUND-COLOR: #e0e0e0; COLOR: black
+}
+.ui-autocomplete {
+	Z-INDEX: 1050; BORDER-BOTTOM: black 1px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; FONT-SIZE: 10pt; OVERFLOW: hidden; BORDER-TOP: black 1px solid; CURSOR: pointer; BORDER-RIGHT: black 1px solid; PADDING-TOP: 0px
+}
+.ui-autocomplete .ui-menu-item {
+	TEXT-ALIGN: left; LIST-STYLE-TYPE: none; FONT-FAMILY: Arial; WHITE-SPACE: nowrap
+}
+.ui-autocomplete .productsItem {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.ui-autocomplete .productsItem IMG {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 50px; HEIGHT: 50px; VERTICAL-ALIGN: middle; BORDER-TOP: #c0c0c0 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #c0c0c0 1px solid
+}
+.ui-autocomplete A {
+	PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; DISPLAY: block; TEXT-DECORATION: none; PADDING-TOP: 0.2em
+}
+.ui-autocomplete .termsHeader {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; COLOR: #7c7a7f; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.ui-autocomplete .productsHeader {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 3px; PADDING-RIGHT: 0px; COLOR: #7c7a7f; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.ui-autocomplete {
+	Z-INDEX: 100050 !important; BORDER-BOTTOM-COLOR: #cdcdcd; PADDING-BOTTOM: 0px !important; BORDER-TOP-COLOR: #cdcdcd; PADDING-LEFT: 0px !important; WIDTH: 310px !important; PADDING-RIGHT: 0px !important; BORDER-RIGHT-COLOR: #cdcdcd; BORDER-LEFT-COLOR: #cdcdcd; PADDING-TOP: 0px !important
+}
+.ui-autocomplete LI.ui-menu-item {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-autocomplete LI.ui-menu-item A {
+	WHITE-SPACE: normal; OVERFLOW: hidden
+}
+.ui-autocomplete LI.productsItem {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 0px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-RIGHT: #ccc 0px solid; PADDING-TOP: 0px
+}
+.ui-autocomplete LI.productsItem IMG {
+	FLOAT: left
+}
+.ui-autocomplete .productsHeader {
+	BORDER-TOP: #cdcdcd 1px solid
+}
+DIV.category-group {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; MARGIN: 0px 0px 12px; ZOOM: 1; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+DIV.category-group DIV.footer {
+	POSITION: relative; MARGIN-TOP: 13px; WIDTH: auto; HEIGHT: 5px
+}
+DIV.category-group DIV.header {
+	BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) repeat-x 0px -10px; HEIGHT: 33px
+}
+DIV.category-group DIV.header DIV {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-group DIV.header A {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-group DIV.header A:hover {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-group DIV.header A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+DIV.category-group DIV.corner-tl {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.corner-tr {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.corner-bl {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.corner-br {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.corner-tl {
+	BACKGROUND-POSITION: 0px 0px; TOP: -1px; LEFT: -1px
+}
+DIV.category-group DIV.corner-tr {
+	BACKGROUND-POSITION: -5px 0px; TOP: -1px; RIGHT: -1px
+}
+DIV.category-group DIV.corner-bl {
+	BOTTOM: -1px; BACKGROUND-POSITION: 0px -5px; LEFT: -1px
+}
+DIV.category-group DIV.corner-br {
+	BOTTOM: -1px; BACKGROUND-POSITION: -5px -5px; RIGHT: -1px
+}
+DIV.category-group DIV.body DIV.category-block {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 18px 0px 0px; PADDING-LEFT: 8px; WIDTH: 100px; PADDING-RIGHT: 8px; ZOOM: 1; FLOAT: left; HEIGHT: 110px; OVERFLOW: hidden; BORDER-RIGHT: #f0f0f0 1px solid; PADDING-TOP: 0px
+}
+DIV.category-group DIV.body DIV.end.category-block {
+	BORDER-RIGHT-WIDTH: 0px
+}
+DIV.category-group DIV.body DIV.category-block DIV.outer-hover:hover DIV.link-container A {
+	COLOR: #1d70c0; TEXT-DECORATION: none
+}
+DIV.category-group DIV.body DIV.category-block DIV.image-container {
+	TEXT-ALIGN: center; WIDTH: 97px; HEIGHT: 75px; OVERFLOW: hidden
+}
+DIV.category-group DIV.body DIV.category-block DIV.image-container A {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.body DIV.category-block DIV.image-container IMG {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-group DIV.body DIV.category-block DIV.link-container {
+	TEXT-ALIGN: center; TEXT-OVERFLOW: ellipsis; HEIGHT: 52px; OVERFLOW: hidden
+}
+DIV.category-group DIV.body DIV.category-block DIV.link-container A {
+	LINE-HEIGHT: 13px; COLOR: #444; TEXT-DECORATION: underline
+}
+DIV.category-group DIV.body DIV.category-block DIV.link-container A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: none
+}
+DIV.clear {
+	LINE-HEIGHT: 0; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+DIV.marketing-block {
+	WIDTH: 588px; MARGIN-BOTTOM: 12px; overlfow: hidden
+}
+.blue_header {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #1c70bf
+}
+.blue_header {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: -1px; BACKGROUND: url(//content.abt.com/media/images/blue_header_gradient.png) no-repeat; HEIGHT: 27px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.blue_header SPAN {
+	POSITION: absolute; WIDTH: 6px; DISPLAY: inline-block; BACKGROUND: url(//content.abt.com/media/images/blue_header_gradient.png) no-repeat right top; HEIGHT: 27px; OVERFLOW: hidden; TOP: 0px; RIGHT: 0px
+}
+.blue_header A {
+	COLOR: #fff
+}
+DIV.glossy_box DIV.group {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BACKGROUND-COLOR: #eee; HEIGHT: 22px
+}
+DIV.glossy_box DIV.group DIV {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 8px; DISPLAY: block; COLOR: #444; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.glossy_box DIV.group A {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 8px; DISPLAY: block; COLOR: #444; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.glossy_box DIV.group A:hover {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 8px; DISPLAY: block; COLOR: #444; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+DIV.glossy_box DIV.group A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+DIV.glossy_box DIV.group-body {
+	BORDER-BOTTOM: #cdcdcd 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: hidden !important; PADDING-TOP: 4px
+}
+DIV.glossy_box DIV.no-border.group-body {
+	BORDER-BOTTOM-WIDTH: 0px
+}
+DIV.glossy_box DIV.sub-cat-body {
+	OVERFLOW: hidden !important
+}
+DIV.glossy_box DIV.sub-cat-body A {
+	PADDING-BOTTOM: 4px; LINE-HEIGHT: 10px; PADDING-LEFT: 32px; PADDING-RIGHT: 6px; DISPLAY: block; PADDING-TOP: 4px
+}
+DIV.glossy_box DIV.sub-cat-body A:hover {
+	PADDING-BOTTOM: 4px; LINE-HEIGHT: 10px; PADDING-LEFT: 32px; PADDING-RIGHT: 6px; DISPLAY: block; PADDING-TOP: 4px
+}
+DIV.glossy_box DIV.sub-cat-body A:hover {
+	BACKGROUND-COLOR: #eaeef5
+}
+DIV.glossy_box DIV.group A.expander {
+	MARGIN: 0px; WIDTH: 24px; BACKGROUND: url(//content.abt.com/media/images/sprite_left_nav_icons.png) no-repeat 0px 0px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden
+}
+DIV.glossy_box DIV.group A.expander:hover {
+	MARGIN: 0px; WIDTH: 24px; BACKGROUND: url(//content.abt.com/media/images/sprite_left_nav_icons.png) no-repeat 0px 0px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden
+}
+DIV.glossy_box DIV.group A.closed.expander {
+	BACKGROUND-POSITION: 5px 5px
+}
+DIV.glossy_box DIV.group A.closed.expander:hover {
+	BACKGROUND-POSITION: 5px -45px
+}
+DIV.glossy_box DIV.group A.open.expander {
+	BACKGROUND-POSITION: 5px -95px
+}
+DIV.glossy_box DIV.group A.open.expander:hover {
+	BACKGROUND-POSITION: 5px -145px
+}
+DIV.glossy_box DIV.cat {
+	POSITION: relative
+}
+DIV.glossy_box DIV.cat:hover {
+	BACKGROUND-COLOR: #eaeef5
+}
+DIV.glossy_box DIV.cat A {
+	PADDING-BOTTOM: 4px; LINE-HEIGHT: 10px; PADDING-LEFT: 24px; WIDTH: 138px; PADDING-RIGHT: 6px; DISPLAY: block; COLOR: #444; PADDING-TOP: 4px
+}
+DIV.glossy_box DIV.cat A:hover {
+	PADDING-BOTTOM: 4px; LINE-HEIGHT: 10px; PADDING-LEFT: 24px; WIDTH: 138px; PADDING-RIGHT: 6px; DISPLAY: block; COLOR: #444; PADDING-TOP: 4px
+}
+DIV.glossy_box DIV.cat A:hover {
+	BACKGROUND-COLOR: #eaeef5; COLOR: #1d70c0
+}
+DIV.glossy_box DIV.cat A SPAN {
+	LINE-HEIGHT: 10px; COLOR: #aaa; FONT-SIZE: 9px
+}
+DIV.glossy_box DIV.cat A:hover SPAN {
+	COLOR: #1d70c0
+}
+DIV.glossy_box DIV.cat A.expander {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 24px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_left_nav_icons.png) no-repeat 0px 0px; HEIGHT: 18px; OVERFLOW: hidden; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+DIV.glossy_box DIV.cat A.expander:hover {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 24px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_left_nav_icons.png) no-repeat 0px 0px; HEIGHT: 18px; OVERFLOW: hidden; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+DIV.glossy_box DIV.cat A.closed.expander {
+	BACKGROUND-POSITION: 7px -195px
+}
+DIV.glossy_box DIV.cat A.closed.expander:hover {
+	BACKGROUND-POSITION: 7px -245px
+}
+DIV.glossy_box DIV.cat A.open.expander {
+	BACKGROUND-POSITION: 7px -295px
+}
+DIV.glossy_box DIV.cat A.open.expander:hover {
+	BACKGROUND-POSITION: 7px -345px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 18px 0px 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; ZOOM: 1; DISPLAY: inline; FLOAT: left; HEIGHT: 101px; OVERFLOW: hidden; BORDER-RIGHT: #f0f0f0 1px solid; PADDING-TOP: 0px
+}
+DIV.category-group DIV.body DIV.end.inner-marketing-block {
+	BORDER-RIGHT-WIDTH: 0px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-1-column {
+	WIDTH: 100px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-1-columns {
+	WIDTH: 100px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-2-columns {
+	WIDTH: 217px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-3-columns {
+	WIDTH: 334px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-4-columns {
+	WIDTH: 451px
+}
+DIV.category-group DIV.body DIV.inner-marketing-block .span-5-columns {
+	WIDTH: 568px
+}
+DIV#category_results TABLE.manu_header {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; MARGIN-TOP: 10px; WIDTH: 590px; BORDER-TOP-STYLE: none; HEIGHT: 33px; BORDER-LEFT-STYLE: none
+}
+TABLE.manu_header TD {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/cat_logo_background.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #cdcdcd 1px solid; BACKGROUND-REPEAT: repeat-x; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 2px
+}
+DIV#category_results TABLE.prod_table {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 10px; WIDTH: 100%; BORDER-TOP-STYLE: none; BORDER-RIGHT: #cdcdcd 1px solid
+}
+TABLE.prod_table TD.prod_image {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; WIDTH: 140px; PADDING-RIGHT: 0px; DISPLAY: block; VERTICAL-ALIGN: top; PADDING-TOP: 15px
+}
+.cl_img_container IMG.energy {
+	POSITION: absolute; MARGIN-LEFT: 15px; LEFT: 0px
+}
+TD.prod_image DIV.view_prod {
+	FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+DIV.compare_option {
+	PADDING-TOP: 10px
+}
+.compare_link_enabled {
+	COLOR: blue; CURSOR: pointer; TEXT-DECORATION: underline
+}
+TABLE.prod_table TD.prod_detail {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+TD.prod_detail TD.prod_price {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 270px; PADDING-RIGHT: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 15px
+}
+SPAN.map_price {
+	FONT-SIZE: 9pt
+}
+SPAN.map_price A {
+	FONT-WEIGHT: bold
+}
+.regular_price {
+	FONT-SIZE: 7pt; FONT-WEIGHT: normal
+}
+.deal_price {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.price_in_cart {
+	FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.savings_discount {
+	COLOR: #bf1c1c; FONT-SIZE: 8pt
+}
+.savings_price {
+	FONT-SIZE: 8pt
+}
+.rebate_price {
+	FONT-SIZE: 8pt
+}
+.rebate_link {
+	FONT-SIZE: 7pt
+}
+.sale_block {
+	FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+.sale_block_price {
+	COLOR: #bf1c1c; FONT-SIZE: 14px
+}
+.sale_block_discount {
+	COLOR: #bf1c1c; FONT-SIZE: 12px
+}
+.special_block {
+	FONT-SIZE: 10px; PADDING-TOP: 0px
+}
+TABLE.product_discount_adverts {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; BACKGROUND-COLOR: #f9f9f9; BORDER-SPACING: 0; BORDER-COLLAPSE: collapse; MARGIN-BOTTOM: 15px; MARGIN-LEFT: 10px
+}
+TABLE.product_discount_adverts TD {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 6px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 6px
+}
+TABLE.product_discount_adverts IMG {
+	POSITION: absolute
+}
+TABLE.product_discount_adverts DIV:hover {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+TABLE.product_discount_adverts DIV {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+TABLE.product_discount_adverts A {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+TABLE.product_discount_adverts A:hover {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; TEXT-TRANSFORM: capitalize; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+TABLE.product_discount_adverts DIV A.bundle_advert {
+	COLOR: #f00
+}
+TABLE.product_discount_adverts A:hover {
+	TEXT-DECORATION: underline !important
+}
+.product_discount_adverts_link:hover {
+	CURSOR: pointer; TEXT-DECORATION: underline !important
+}
+IMG.prod_savings_corner {
+	BOTTOM: -7px; LEFT: -9px
+}
+DIV.add_to_cart_discounts {
+	PADDING-BOTTOM: 6px; PADDING-RIGHT: 15px
+}
+DIV.add_to_cart {
+	PADDING-BOTTOM: 6px; PADDING-RIGHT: 15px; PADDING-TOP: 15px
+}
+TD.prod_description {
+	PADDING-RIGHT: 15px; VERTICAL-ALIGN: top
+}
+TD.prod_description DIV.in_store_pick {
+	LINE-HEIGHT: 15px; MARGIN: 9px 0px 4px
+}
+TD.prod_description DIV.prod_description {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+TD.prod_description SPAN.inventory_ship {
+	FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+DIV.cl_status_container .free_ship {
+	COLOR: #1d70c0
+}
+TD.prod_description .ship_promo {
+	FONT-WEIGHT: normal
+}
+DIV.review_outer_box {
+	MARGIN-TOP: 10px
+}
+DIV.review_inner_box {
+	BACKGROUND-IMAGE: url(/CustRev/pwr/engine/images/stars_small.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 0px; WIDTH: 85px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 15px; PADDING-TOP: 0px
+}
+DIV.review_inner_box IMG.clear {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 85px; PADDING-RIGHT: 0px; HEIGHT: 15px; PADDING-TOP: 0px
+}
+DIV.review_inner_box .review_link {
+	FONT-SIZE: 7pt
+}
+DIV.clearing_div {
+	CLEAR: both
+}
+.filter_header {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/left_nav_hdr_background.jpg); BORDER-BOTTOM: #e8eaed 1px solid; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #edeef1; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 11px; BORDER-TOP: #f5f6f7 1px solid; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.filter_clear {
+	DISPLAY: none; FLOAT: right
+}
+.filter_header DIV.inner_head {
+	FLOAT: left
+}
+.filter_choices {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 10px
+}
+.paging_summary {
+	FONT-SIZE: 15px
+}
+.filter_header_expand IMG {
+	MARGIN-BOTTOM: -2px
+}
+.filter_choice_text:hover {
+	COLOR: #1d70c0; CURSOR: pointer; TEXT-DECORATION: underline
+}
+DIV.pagination {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 3px
+}
+DIV.pagination A {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/paging_counter.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 2px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; HEIGHT: 25px; COLOR: #444; FONT-SIZE: 11px; BORDER-TOP: #cdcdcd 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #cdcdcd 1px solid; TEXT-DECORATION: none; PADDING-TOP: 3px
+}
+DIV.pagination A:hover {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/paging_counter_hover.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; COLOR: #444; FONT-SIZE: 11px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+DIV.pagination A:active {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/paging_counter_hover.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; COLOR: #444; FONT-SIZE: 11px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+DIV.pagination SPAN.paging_current {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/paging_current.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 2px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; COLOR: #fff; FONT-SIZE: 11px; BORDER-TOP: #cdcdcd 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 3px
+}
+DIV.pagination SPAN.paging_disabled {
+	BORDER-BOTTOM: #eee 1px solid; BORDER-LEFT: #eee 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 2px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; COLOR: #ddd; BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #eee 1px solid; PADDING-TOP: 3px
+}
+.share_buttons {
+	HEIGHT: 20px; OVERFLOW: visible
+}
+.share_buttons DIV {
+	FLOAT: right; HEIGHT: 20px; OVERFLOW: visible
+}
+.bread_crumb_bar {
+	POSITION: relative
+}
+.bread_crumb_bar .bread_crumbs {
+	LINE-HEIGHT: 20px; WIDTH: 540px
+}
+.bread_crumb_bar .share_buttons {
+	POSITION: absolute; WIDTH: 415px; HEIGHT: 21px; OVERFLOW: visible; TOP: 0px; RIGHT: 0px
+}
+.lists {
+	TEXT-ALIGN: left; MARGIN-TOP: 5px
+}
+.category_list {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 15px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.category_list LI {
+	BORDER-BOTTOM: #cdcdcd 1px solid; POSITION: relative; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 15px; MARGIN-TOP: -1px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; DISPLAY: block; MARGIN-BOTTOM: 0px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 15px
+}
+LI.brand_header {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/cat_logo_background.jpg); BORDER-BOTTOM: #cdcdcd 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 33px; MARGIN-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND-REPEAT: repeat-x; OVERFLOW: hidden; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 0px
+}
+LI.bh_first {
+	MARGIN-TOP: 0px
+}
+LI.brand_header IMG {
+	VERTICAL-ALIGN: middle
+}
+.cl_outer_box {
+	WIDTH: 560px
+}
+.cl_img_container {
+	TEXT-ALIGN: center; WIDTH: 115px; PADDING-RIGHT: 10px; FLOAT: left; VERTICAL-ALIGN: top
+}
+.cl_prod_container {
+	WIDTH: 433px; FLOAT: left
+}
+.cl_view_product {
+	FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.cl_but_container {
+	TEXT-ALIGN: left; WIDTH: 126px; FLOAT: right
+}
+.cl_title {
+	MARGIN-BOTTOM: 5px; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.cl_price {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.cl_reg_price {
+	FONT-SIZE: 7pt; FONT-WEIGHT: normal
+}
+.cl_description {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+.cl_status_container {
+	MARGIN-BOTTOM: 10px; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.green {
+	COLOR: #388c02
+}
+.blue {
+	COLOR: #1c70bf
+}
+.cl_rating {
+	BACKGROUND-IMAGE: url(/CustRev/pwr/engine/images/stars_small.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 0px; WIDTH: 85px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 15px; PADDING-TOP: 0px
+}
+.cl_reviews {
+	DISPLAY: inline-block; FONT-SIZE: 7pt
+}
+.cl_offer_container {
+	BORDER-BOTTOM: #cdcdcd 1px solid; POSITION: relative; TEXT-ALIGN: right; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #f9f9f9; MARGIN: -16px -16px 15px 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FLOAT: right; COLOR: #f00; BORDER-TOP: #cdcdcd 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 4px
+}
+.cl_offer_container EM {
+	POSITION: absolute; WIDTH: 7px; BOTTOM: -1px; BACKGROUND: url(//content.abt.com/media/images/prod_saving_br_corner.gif) no-repeat; HEIGHT: 7px; LEFT: -1px
+}
+.cl_offer_container DIV {
+	LINE-HEIGHT: 13px; DISPLAY: block; COLOR: #1d70c0; FONT-WEIGHT: bold
+}
+.cl_abt_model {
+	POSITION: relative; TOP: -2px
+}
+.cl_status_container .instock {
+	COLOR: #388c02
+}
+.cl_status_container .unavailable {
+	COLOR: #f00
+}
+.cl_status_container .backorder {
+	COLOR: #e18503
+}
+.cl_but_container .cl_status_container {
+	TEXT-ALIGN: center
+}
+#filter_form .selected.filter_count {
+	DISPLAY: none
+}
+.filter_choice INPUT {
+	FLOAT: left
+}
+.filter_choice SPAN.filter_choice_text {
+	WIDTH: 80%; DISPLAY: block; FLOAT: left; PADDING-TOP: 2px
+}
+.filter-hidden {
+	DISPLAY: none
+}
+.filter-more {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 10px
+}
+.filter-more:hover {
+	COLOR: #1d70c0; CURSOR: pointer; TEXT-DECORATION: underline
+}
+#fancybox-loading {
+	Z-INDEX: 6104; POSITION: fixed; MARGIN-TOP: -20px; WIDTH: 40px; DISPLAY: none; HEIGHT: 40px; MARGIN-LEFT: -20px; OVERFLOW: hidden; TOP: 50%; CURSOR: pointer; LEFT: 50%
+}
+#fancybox-loading DIV {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); POSITION: absolute; WIDTH: 40px; HEIGHT: 480px; TOP: 0px; LEFT: 0px
+}
+#fancybox-overlay {
+	Z-INDEX: 6100; POSITION: absolute; WIDTH: 100%; DISPLAY: none; TOP: 0px; LEFT: 0px
+}
+#fancybox-tmp {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; OVERFLOW: auto; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+#fancybox-wrap {
+	Z-INDEX: 6101; POSITION: absolute; PADDING-BOTTOM: 20px; OUTLINE-STYLE: none; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: none; TOP: 0px; PADDING-TOP: 20px; LEFT: 0px
+}
+#fancybox-outer {
+	POSITION: relative; WIDTH: 100%; BACKGROUND: #fff; HEIGHT: 100%
+}
+#fancybox-content {
+	Z-INDEX: 6102; BORDER-BOTTOM: #fff 0px solid; POSITION: relative; BORDER-LEFT: #fff 0px solid; PADDING-BOTTOM: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #fff 0px solid; BORDER-RIGHT: #fff 0px solid; PADDING-TOP: 0px
+}
+#fancybox-hide-sel-frame {
+	Z-INDEX: 6101; POSITION: absolute; WIDTH: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+#fancybox-close {
+	Z-INDEX: 6103; POSITION: absolute; WIDTH: 30px; DISPLAY: none; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/fancybox.png) -40px 0px; HEIGHT: 30px; TOP: -15px; CURSOR: pointer; RIGHT: -15px
+}
+#fancybox-error {
+	PADDING-BOTTOM: 14px; MARGIN: 0px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; FONT: 12px/20px Arial; COLOR: #444; PADDING-TOP: 14px
+}
+#fancybox-img {
+	BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; BORDER-RIGHT-STYLE: none; MARGIN: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BORDER-TOP-STYLE: none; HEIGHT: 100%; VERTICAL-ALIGN: top; BORDER-LEFT-STYLE: none; PADDING-TOP: 0px
+}
+#fancybox-frame {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 100%; DISPLAY: block; BORDER-TOP-STYLE: none; HEIGHT: 100%; BORDER-LEFT-STYLE: none
+}
+#fancybox-left {
+	Z-INDEX: 6102; POSITION: absolute; OUTLINE-STYLE: none; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/blank.gif); HEIGHT: 100%; CURSOR: pointer
+}
+#fancybox-right {
+	Z-INDEX: 6102; POSITION: absolute; OUTLINE-STYLE: none; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/blank.gif); HEIGHT: 100%; CURSOR: pointer
+}
+#fancybox-left {
+	LEFT: 0px
+}
+#fancybox-right {
+	RIGHT: 0px
+}
+#fancybox-left-ico {
+	Z-INDEX: 6102; POSITION: absolute; MARGIN-TOP: -15px; WIDTH: 30px; DISPLAY: block; HEIGHT: 30px; TOP: 50%; CURSOR: pointer; LEFT: -9999px
+}
+#fancybox-right-ico {
+	Z-INDEX: 6102; POSITION: absolute; MARGIN-TOP: -15px; WIDTH: 30px; DISPLAY: block; HEIGHT: 30px; TOP: 50%; CURSOR: pointer; LEFT: -9999px
+}
+#fancybox-left-ico {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BACKGROUND-POSITION: -40px -30px
+}
+#fancybox-right-ico {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BACKGROUND-POSITION: -40px -60px
+}
+#fancybox-left:hover {
+	VISIBILITY: visible
+}
+#fancybox-right:hover {
+	VISIBILITY: visible
+}
+#fancybox-left:hover SPAN {
+	LEFT: 20px
+}
+#fancybox-right:hover SPAN {
+	RIGHT: 20px; LEFT: auto
+}
+.fancybox-bg {
+	Z-INDEX: 6001; POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 20px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 20px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+#fancybox-bg-n {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox-x.png); WIDTH: 100%; TOP: -20px; LEFT: 0px
+}
+#fancybox-bg-ne {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BACKGROUND-POSITION: -40px -162px; TOP: -20px; RIGHT: -20px
+}
+#fancybox-bg-e {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox-y.png); BACKGROUND-POSITION: -20px 0px; HEIGHT: 100%; TOP: 0px; RIGHT: -20px
+}
+#fancybox-bg-se {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BOTTOM: -20px; BACKGROUND-POSITION: -40px -182px; RIGHT: -20px
+}
+#fancybox-bg-s {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox-x.png); WIDTH: 100%; BOTTOM: -20px; BACKGROUND-POSITION: 0px -20px; LEFT: 0px
+}
+#fancybox-bg-sw {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BOTTOM: -20px; BACKGROUND-POSITION: -40px -142px; LEFT: -20px
+}
+#fancybox-bg-w {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox-y.png); HEIGHT: 100%; TOP: 0px; LEFT: -20px
+}
+#fancybox-bg-nw {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancybox.png); BACKGROUND-POSITION: -40px -122px; TOP: -20px; LEFT: -20px
+}
+#fancybox-title {
+	Z-INDEX: 6102; FONT-FAMILY: Helvetica; FONT-SIZE: 12px
+}
+.fancybox-title-inside {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 10px; BACKGROUND: #fff; COLOR: #333
+}
+.fancybox-title-outside {
+	COLOR: #fff; PADDING-TOP: 10px
+}
+.fancybox-title-over {
+	POSITION: absolute; TEXT-ALIGN: left; BOTTOM: 0px; COLOR: #fff; LEFT: 0px
+}
+#fancybox-title-over {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/gift_list_graphics/fancy_title_over.png); PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; PADDING-TOP: 10px
+}
+.fancybox-title-float {
+	POSITION: absolute; BOTTOM: -20px; HEIGHT: 32px; LEFT: 0px
+}
+#fancybox-title-float-wrap {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: auto; BORDER-COLLAPSE: collapse; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+#fancybox-title-float-wrap TD {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WHITE-SPACE: nowrap; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+#fancybox-title-float-left {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/fancybox.png) no-repeat -40px -90px; PADDING-TOP: 0px
+}
+#fancybox-title-float-main {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 29px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/fancybox-x.png) 0px -40px; COLOR: #fff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#fancybox-title-float-right {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/gift_list_graphics/fancybox.png) no-repeat -55px -90px; PADDING-TOP: 0px
+}
+.fancybox-ie6 #fancybox-close {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_close.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-left-ico {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_nav_left.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-right-ico {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_nav_right.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-over {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_title_over.png',sizingMethod='scale'); ZOOM: 1; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-left {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_title_left.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-main {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_title_main.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-title-float-right {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_title_right.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie6 #fancybox-bg-w {
+	; HEIGHT: expression(this.parentNode.clientHeight+"px")
+}
+.fancybox-ie6 #fancybox-bg-e {
+	; HEIGHT: expression(this.parentNode.clientHeight+"px")
+}
+.fancybox-ie6 #fancybox-left {
+	; HEIGHT: expression(this.parentNode.clientHeight+"px")
+}
+.fancybox-ie6 #fancybox-right {
+	; HEIGHT: expression(this.parentNode.clientHeight+"px")
+}
+#fancybox-hide-sel-frame {
+	; HEIGHT: expression(this.parentNode.clientHeight+"px")
+}
+.fancybox-ie6#fancybox-loading {
+	POSITION: absolute; MARGIN-TOP: 0px; ; TOP: expression((-20+(document.documentElement.clientHeight ? document.documentElement.clientHeight/2:document.body.clientHeight/2)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop:document.body.scrollTop))+'px')
+}
+.fancybox-ie6#fancybox-loading DIV {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_loading.png',sizingMethod='scale'); BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie .fancybox-bg {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.fancybox-ie #fancybox-bg-n {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_n.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-ne {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_ne.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-e {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_e.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-se {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_se.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-s {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_s.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-sw {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_sw.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-w {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_w.png',sizingMethod='scale')
+}
+.fancybox-ie #fancybox-bg-nw {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//content.abt.com/media/gift_list_graphics/fancy_shadow_nw.png',sizingMethod='scale')
+}
+.widget_review_stars {
+	BACKGROUND-IMAGE: url(/CustRev/pwr/engine/images/stars_small.gif); PADDING-BOTTOM: 0px; MARGIN: 0px 5px 0px 0px; PADDING-LEFT: 0px; WIDTH: 85px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 15px; PADDING-TOP: 0px
+}
+.widget_review_stars IMG {
+	WIDTH: 85px; HEIGHT: 15px
+}
+.widget-product-title {
+	WIDTH: 130px
+}
+.widget_review_span {
+	COLOR: #666
+}
+.widget_footer {
+	TEXT-ALIGN: center; MIN-HEIGHT: 0px
+}
+.widget-footer-span {
+	POSITION: relative; TOP: -12px
+}
+.widget_top {
+	TEXT-ALIGN: center; MIN-HEIGHT: 90px
+}
+.widget_cell_1 {
+	WIDTH: 138px; HEIGHT: 140px; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.widget_cell_2 {
+	WIDTH: 138px
+}
+.widget_cell_3 {
+	PADDING-LEFT: 5px; WIDTH: 142px !important; PADDING-RIGHT: 0px; MARGIN-LEFT: auto; MARGIN-RIGHT: 0px
+}
+.widget_cell_4 {
+	PADDING-LEFT: 6px; PADDING-RIGHT: 6px; MAX-WIDTH: 142px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.widget_cell_5 {
+	PADDING-LEFT: 6px; PADDING-RIGHT: 0px; MAX-WIDTH: 142px; MARGIN-LEFT: auto; MARGIN-RIGHT: 0px; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.widget_row_cell_1 {
+	PADDING-LEFT: 6px; PADDING-RIGHT: 6px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.widget_row_cell_2 {
+	PADDING-LEFT: 6px; PADDING-RIGHT: 6px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto; BORDER-RIGHT: #f0f0f0 1px solid
+}
+.widget-key-features {
+	POSITION: relative; LIST-STYLE-TYPE: disc; MARGIN-TOP: 7px; LEFT: -20px
+}
+.widget-table {
+	TABLE-LAYOUT: fixed
+}
+.widget-table-inner {
+	WIDTH: 132px
+}
+.widget-table-inner-2 {
+	PADDING-LEFT: 5px; WIDTH: 128px
+}
+DIV.widget-title {
+	PADDING-BOTTOM: 10px; TEXT-INDENT: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; WHITE-SPACE: normal !important; PADDING-TOP: 10px
+}
+DIV.category-widget {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; MARGIN: 0px 0px 12px; ZOOM: 1; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+DIV.category-widget DIV.footer {
+	POSITION: relative; MARGIN-TOP: 13px; WIDTH: auto; HEIGHT: 5px
+}
+DIV.category-widget DIV.header {
+	BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; HEIGHT: 33px
+}
+DIV.category-widget DIV.header DIV {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-widget DIV.header A {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-widget DIV.header A:hover {
+	LINE-HEIGHT: 33px; TEXT-INDENT: 15px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #444; FONT-SIZE: 19px; FONT-WEIGHT: lighter; TEXT-DECORATION: none
+}
+DIV.category-widget DIV.header A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: underline
+}
+DIV.category-widget DIV.corner-tl {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.corner-tr {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.corner-bl {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.corner-br {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 5px; PADDING-RIGHT: 0px; BACKGROUND: url(//content.abt.com/media/images/sprite_category_groups.gif) #fff no-repeat 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 5px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.corner-tl {
+	BACKGROUND-POSITION: 0px 0px; TOP: -1px; LEFT: -1px
+}
+DIV.category-widget DIV.corner-tr {
+	BACKGROUND-POSITION: -5px 0px; TOP: -1px; RIGHT: -1px
+}
+DIV.category-widget DIV.corner-bl {
+	BOTTOM: -1px; BACKGROUND-POSITION: 0px -5px; LEFT: -1px
+}
+DIV.category-widget DIV.corner-br {
+	BOTTOM: -1px; BACKGROUND-POSITION: -5px -5px; RIGHT: -1px
+}
+DIV.category-widget DIV.body DIV.category-block {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 18px 0px 0px; PADDING-LEFT: 8px; WIDTH: 100px; PADDING-RIGHT: 8px; ZOOM: 1; FLOAT: left; HEIGHT: 110px; OVERFLOW: hidden; BORDER-RIGHT: #f0f0f0 1px solid; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.body DIV.end.category-block {
+	BORDER-RIGHT-WIDTH: 0px
+}
+DIV.category-widget DIV.body DIV.category-block DIV.outer-hover:hover DIV.link-container A {
+	COLOR: #1d70c0; TEXT-DECORATION: none
+}
+DIV.category-widget DIV.body DIV.category-block DIV.image-container {
+	TEXT-ALIGN: center; WIDTH: 97px; HEIGHT: 75px; OVERFLOW: hidden
+}
+DIV.category-widget DIV.body DIV.category-block DIV.image-container A {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.body DIV.category-block DIV.image-container IMG {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+DIV.category-widget DIV.body DIV.category-block DIV.link-container {
+	TEXT-ALIGN: center; TEXT-OVERFLOW: ellipsis; HEIGHT: 52px; OVERFLOW: hidden
+}
+DIV.category-widget DIV.body DIV.category-block DIV.link-container A {
+	LINE-HEIGHT: 13px; COLOR: #444; TEXT-DECORATION: underline
+}
+DIV.category-widget DIV.body DIV.category-block DIV.link-container A:hover {
+	COLOR: #1d70c0; TEXT-DECORATION: none
+}
+#prt_share_button A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#eml_share_button A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#facebook_share_btn A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#twitter_share_btn A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#googleplus_share_btn A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#pinterest_share_btn A {
+	WIDTH: 20px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/images/social_sprite.png) no-repeat 0px 0px; HEIGHT: 20px
+}
+#eml_share_button {
+	WIDTH: 20px; MARGIN-RIGHT: 5px
+}
+#facebook_share_btn {
+	WIDTH: 20px; MARGIN-RIGHT: 5px
+}
+#twitter_share_btn {
+	WIDTH: 20px; MARGIN-RIGHT: 5px
+}
+#googleplus_share_btn {
+	WIDTH: 20px; MARGIN-RIGHT: 5px
+}
+#pinterest_share_btn {
+	WIDTH: 20px; MARGIN-RIGHT: 5px
+}
+#prt_share_button {
+	WIDTH: 20px
+}
+#eml_share_button A {
+	BACKGROUND-POSITION: 0px 0px
+}
+#prt_share_button A {
+	BACKGROUND-POSITION: -100px 0px
+}
+#facebook_share_btn A {
+	BACKGROUND-POSITION: -20px 0px
+}
+#twitter_share_btn A {
+	BACKGROUND-POSITION: -40px 0px
+}
+#googleplus_share_btn A {
+	BACKGROUND-POSITION: -80px 0px
+}
+#pinterest_share_btn A {
+	BACKGROUND-POSITION: -60px 0px
+}
+#share_txt {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 7px; PADDING-TOP: 3px
+}
+#feedback_error LI {
+	COLOR: #f00
+}
+#feedback_form INPUT {
+	MARGIN-BOTTOM: 5px
+}
+.feedback_input_error {
+	BORDER-BOTTOM: #f00 1px solid; BORDER-LEFT: #f00 1px solid; BORDER-TOP: #f00 1px solid; BORDER-RIGHT: #f00 1px solid
+}
+.k_button_css_revision {
+	
+}
+#k_popup * {
+	BOX-SIZING: content-box !important; FONT-FAMILY: Arial; FLOAT: none; -moz-box-sizing: content-box
+}
+#k_popup A IMG {
+	BORDER-RIGHT-WIDTH: 0px; DISPLAY: inline; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+#k_popup A {
+	TEXT-DECORATION: none
+}
+#k_popup A:hover {
+	COLOR: #3882c3; TEXT-DECORATION: underline
+}
+#k_popup DIV {
+	FLOAT: none
+}
+.k_float {
+	Z-INDEX: 9999999; POSITION: fixed !important; CURSOR: pointer
+}
+
+@media Unknown    
+{
+.k_float {
+	POSITION: absolute !important
+}
+    }
+.k_container:before {
+	DISPLAY: block; HEIGHT: 0px; CLEAR: both; CONTENT: '.'
+}
+.absolute.k_float {
+	POSITION: absolute !important
+}
+#kampylink IMG {
+	BORDER-RIGHT-WIDTH: 0px; DISPLAY: block; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.k_top {
+	TOP: 0px
+}
+.k_top_sl {
+	TOP: 15px
+}
+.k_top_hl_sl {
+	TOP: 100px
+}
+.k_top_hl {
+	TOP: 85px
+}
+.k_bottom {
+	BOTTOM: 0px
+}
+.k_bottom_sl {
+	BOTTOM: 15px
+}
+.k_bottom_hl_sl {
+	BOTTOM: 99px
+}
+.k_bottom_hl {
+	BOTTOM: 84px
+}
+.k_right {
+	RIGHT: 0px
+}
+.k_left {
+	LEFT: 0px
+}
+#k_popup {
+	Z-INDEX: 999999; BORDER-BOTTOM: black 1px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; DISPLAY: none; FONT-FAMILY: 'arial'; BORDER-TOP: black 1px solid; TOP: 0px; FONT-WEIGHT: bold; BORDER-RIGHT: black 1px solid; LEFT: 0px
+}
+#k_pop_header {
+	BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 10px; MARGIN: 10px 9px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: white; FONT-SIZE: 20px; BORDER-TOP: #fff 1px solid; FONT-WEIGHT: bolder; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 10px
+}
+#k_pop_question_container {
+	BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 10px; MARGIN: 10px 9px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: white; FONT-SIZE: 11px; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; PADDING-TOP: 10px
+}
+#k_pop_yes_no {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 138px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+#k_pop_yes_btn {
+	BORDER-BOTTOM: #0e1f5b 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d9dfea 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 10px; WIDTH: 40px; PADDING-RIGHT: 10px; COLOR: white; FONT-SIZE: 11px; BORDER-TOP: #d9dfea 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #0e1f5b 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#k_pop_no_btn {
+	BORDER-BOTTOM: #0e1f5b 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d9dfea 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 10px; WIDTH: 40px; PADDING-RIGHT: 10px; COLOR: white; FONT-SIZE: 11px; BORDER-TOP: #d9dfea 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #0e1f5b 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#k_pop_branding {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 11px; PADDING-TOP: 3px
+}
+#k_pop_branding A {
+	TEXT-ALIGN: right; DIRECTION: ltr; COLOR: #3882c3; FONT-WEIGHT: normal; MARGIN-RIGHT: 10px
+}
+#k_pop_whatisthis {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 1px
+}
+#k_pop_remind {
+	CURSOR: pointer; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+#k_close_button {
+	BORDER-BOTTOM: gray 1px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 1px solid; WIDTH: 11px; DISPLAY: none; HEIGHT: 16px; COLOR: gray; FONT-SIZE: 12px; BORDER-TOP: gray 1px solid; BORDER-RIGHT: gray 1px solid
+}
+.kc_top {
+	TOP: 80px
+}
+.kc_bottom {
+	BOTTOM: 80px
+}
+.kc_right {
+	RIGHT: 10px
+}
+.kc_left {
+	LEFT: 10px
+}
+.kc_top_sl {
+	TOP: 95px
+}
+.kc_bottom_sl {
+	BOTTOM: 95px
+}
+#k_slogan {
+	FONT-FAMILY: 'Trebuchet MS',Arial,Helvetica,sans-serif; COLOR: #666; MARGIN-LEFT: 2px; FONT-SIZE: 9px; CURSOR: default; MARGIN-RIGHT: 2px
+}
+#k_slogan A {
+	FONT-FAMILY: 'Trebuchet MS',Arial,Helvetica,sans-serif; COLOR: #666; FONT-SIZE: 9px; CURSOR: default; TEXT-DECORATION: none
+}
+.k_middle {
+	TOP: 50%
+}
+.k_middle {
+	MARGIN-TOP: -55px; TOP: 50%
+}
+.feedback {
+	WIDTH: 38px; DISPLAY: block; BACKGROUND: url(//content.abt.com/media/kampyle/feedback_sprite.png) left 50%; HEIGHT: 110px
+}
+.feedback:hover {
+	BACKGROUND-POSITION: -38px 0px
+}
+.ui-helper-hidden {
+	DISPLAY: none
+}
+.ui-helper-hidden-accessible {
+	POSITION: absolute; LEFT: -1342177.28px
+}
+.ui-helper-reset {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.3; BORDER-RIGHT-WIDTH: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; OUTLINE-WIDTH: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; FONT-SIZE: 100%; BORDER-LEFT-WIDTH: 0px; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.ui-helper-clearfix:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.ui-helper-clearfix {
+	DISPLAY: inline-block
+}
+* HTML .ui-helper-clearfix {
+	HEIGHT: 1%
+}
+.ui-helper-clearfix {
+	DISPLAY: block
+}
+.ui-helper-zfix {
+	POSITION: absolute; FILTER: Alpha(Opacity=0); WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: 0
+}
+.ui-state-disabled {
+	CURSOR: default !important
+}
+.ui-icon {
+	TEXT-INDENT: -99999px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; OVERFLOW: hidden
+}
+.ui-widget-overlay {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.bold-chat-overlay {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.ui-widget {
+	FONT-FAMILY: Arial,Verdana,sans-serif; FONT-SIZE: 11px
+}
+.ui-widget .ui-widget {
+	FONT-SIZE: 1em
+}
+.ui-widget INPUT {
+	FONT-FAMILY: Arial,Verdana,sans-serif; FONT-SIZE: 1em
+}
+.ui-widget SELECT {
+	FONT-FAMILY: Arial,Verdana,sans-serif; FONT-SIZE: 1em
+}
+.ui-widget TEXTAREA {
+	FONT-FAMILY: Arial,Verdana,sans-serif; FONT-SIZE: 1em
+}
+.ui-widget BUTTON {
+	FONT-FAMILY: Arial,Verdana,sans-serif; FONT-SIZE: 1em
+}
+.ui-widget-content {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_100_ffffff_40x100.png) #fff repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-content A {
+	COLOR: #444
+}
+.ui-widget-header {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_highlight-soft_50_216db8_1x100.png) #216db8 repeat-x 50% 50%; COLOR: #fff; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-header A {
+	COLOR: #fff
+}
+.ui-state-default {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_highlight-hard_100_c4c9cd_1x100.png) #c4c9cd repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-content .ui-state-default {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_highlight-hard_100_c4c9cd_1x100.png) #c4c9cd repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-header .ui-state-default {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_highlight-hard_100_c4c9cd_1x100.png) #c4c9cd repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-state-default A {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-state-default A:link {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-state-default A:visited {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-state-hover {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-content .ui-state-hover {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-header .ui-state-hover {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-state-focus {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-content .ui-state-focus {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-header .ui-state-focus {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_glass_75_dadada_1x400.png) #dadada repeat-x 50% 50%; COLOR: #212121; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-state-hover A {
+	COLOR: #212121; TEXT-DECORATION: none
+}
+.ui-state-hover A:hover {
+	COLOR: #212121; TEXT-DECORATION: none
+}
+.ui-state-active {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_100_f9fbfb_1x100.png) #f9fbfb repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-content .ui-state-active {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_100_f9fbfb_1x100.png) #f9fbfb repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-widget-header .ui-state-active {
+	BORDER-BOTTOM: #8b9597 1px solid; BORDER-LEFT: #8b9597 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_100_f9fbfb_1x100.png) #f9fbfb repeat-x 50% 50%; COLOR: #444; BORDER-TOP: #8b9597 1px solid; FONT-WEIGHT: normal; BORDER-RIGHT: #8b9597 1px solid
+}
+.ui-state-active A {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-state-active A:link {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-state-active A:visited {
+	COLOR: #444; TEXT-DECORATION: none
+}
+.ui-widget :active {
+	OUTLINE-STYLE: none
+}
+.ui-state-highlight {
+	BORDER-BOTTOM: #43494e 1px solid; BORDER-LEFT: #43494e 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_50_43494e_40x100.png) #43494e repeat-x 50% 50%; COLOR: #fff; BORDER-TOP: #43494e 1px solid; BORDER-RIGHT: #43494e 1px solid
+}
+.ui-widget-content .ui-state-highlight {
+	BORDER-BOTTOM: #43494e 1px solid; BORDER-LEFT: #43494e 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_50_43494e_40x100.png) #43494e repeat-x 50% 50%; COLOR: #fff; BORDER-TOP: #43494e 1px solid; BORDER-RIGHT: #43494e 1px solid
+}
+.ui-widget-header .ui-state-highlight {
+	BORDER-BOTTOM: #43494e 1px solid; BORDER-LEFT: #43494e 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_50_43494e_40x100.png) #43494e repeat-x 50% 50%; COLOR: #fff; BORDER-TOP: #43494e 1px solid; BORDER-RIGHT: #43494e 1px solid
+}
+.ui-state-highlight A {
+	COLOR: #fff
+}
+.ui-widget-content .ui-state-highlight A {
+	COLOR: #fff
+}
+.ui-widget-header .ui-state-highlight A {
+	COLOR: #fff
+}
+.ui-state-error {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_95_fef1ec_1x100.png) #fef1ec repeat-x 50% bottom; COLOR: #cd0a0a; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid
+}
+.ui-widget-content .ui-state-error {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_95_fef1ec_1x100.png) #fef1ec repeat-x 50% bottom; COLOR: #cd0a0a; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid
+}
+.ui-widget-header .ui-state-error {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_inset-soft_95_fef1ec_1x100.png) #fef1ec repeat-x 50% bottom; COLOR: #cd0a0a; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid
+}
+.ui-state-error A {
+	COLOR: #cd0a0a
+}
+.ui-widget-content .ui-state-error A {
+	COLOR: #cd0a0a
+}
+.ui-widget-header .ui-state-error A {
+	COLOR: #cd0a0a
+}
+.ui-state-error-text {
+	COLOR: #cd0a0a
+}
+.ui-widget-content .ui-state-error-text {
+	COLOR: #cd0a0a
+}
+.ui-widget-header .ui-state-error-text {
+	COLOR: #cd0a0a
+}
+.ui-priority-primary {
+	FONT-WEIGHT: bold
+}
+.ui-widget-content .ui-priority-primary {
+	FONT-WEIGHT: bold
+}
+.ui-widget-header .ui-priority-primary {
+	FONT-WEIGHT: bold
+}
+.ui-priority-secondary {
+	FILTER: Alpha(Opacity=70); FONT-WEIGHT: normal; opacity: .7
+}
+.ui-widget-content .ui-priority-secondary {
+	FILTER: Alpha(Opacity=70); FONT-WEIGHT: normal; opacity: .7
+}
+.ui-widget-header .ui-priority-secondary {
+	FILTER: Alpha(Opacity=70); FONT-WEIGHT: normal; opacity: .7
+}
+.ui-state-disabled {
+	BACKGROUND-IMAGE: none; FILTER: Alpha(Opacity=35); opacity: .35
+}
+.ui-widget-content .ui-state-disabled {
+	BACKGROUND-IMAGE: none; FILTER: Alpha(Opacity=35); opacity: .35
+}
+.ui-widget-header .ui-state-disabled {
+	BACKGROUND-IMAGE: none; FILTER: Alpha(Opacity=35); opacity: .35
+}
+.ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_444444_256x240.png); WIDTH: 16px; HEIGHT: 16px
+}
+.ui-widget-content .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_444444_256x240.png)
+}
+.ui-widget-header .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_ffffff_256x240.png)
+}
+.ui-state-default .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_888888_256x240.png)
+}
+.ui-state-hover .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_454545_256x240.png)
+}
+.ui-state-focus .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_454545_256x240.png)
+}
+.ui-state-active .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_454545_256x240.png)
+}
+.ui-state-highlight .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_ffffff_256x240.png)
+}
+.ui-state-error .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_cd0a0a_256x240.png)
+}
+.ui-state-error-text .ui-icon {
+	BACKGROUND-IMAGE: url(//content.abt.com/media/images/layout/jquery_ui/ui-icons_cd0a0a_256x240.png)
+}
+.ui-icon-carat-1-n {
+	BACKGROUND-POSITION: 0px 0px
+}
+.ui-icon-carat-1-ne {
+	BACKGROUND-POSITION: -16px 0px
+}
+.ui-icon-carat-1-e {
+	BACKGROUND-POSITION: -32px 0px
+}
+.ui-icon-carat-1-se {
+	BACKGROUND-POSITION: -48px 0px
+}
+.ui-icon-carat-1-s {
+	BACKGROUND-POSITION: -64px 0px
+}
+.ui-icon-carat-1-sw {
+	BACKGROUND-POSITION: -80px 0px
+}
+.ui-icon-carat-1-w {
+	BACKGROUND-POSITION: -96px 0px
+}
+.ui-icon-carat-1-nw {
+	BACKGROUND-POSITION: -112px 0px
+}
+.ui-icon-carat-2-n-s {
+	BACKGROUND-POSITION: -128px 0px
+}
+.ui-icon-carat-2-e-w {
+	BACKGROUND-POSITION: -144px 0px
+}
+.ui-icon-triangle-1-n {
+	BACKGROUND-POSITION: 0px -16px
+}
+.ui-icon-triangle-1-ne {
+	BACKGROUND-POSITION: -16px -16px
+}
+.ui-icon-triangle-1-e {
+	BACKGROUND-POSITION: -32px -16px
+}
+.ui-icon-triangle-1-se {
+	BACKGROUND-POSITION: -48px -16px
+}
+.ui-icon-triangle-1-s {
+	BACKGROUND-POSITION: -64px -16px
+}
+.ui-icon-triangle-1-sw {
+	BACKGROUND-POSITION: -80px -16px
+}
+.ui-icon-triangle-1-w {
+	BACKGROUND-POSITION: -96px -16px
+}
+.ui-icon-triangle-1-nw {
+	BACKGROUND-POSITION: -112px -16px
+}
+.ui-icon-triangle-2-n-s {
+	BACKGROUND-POSITION: -128px -16px
+}
+.ui-icon-triangle-2-e-w {
+	BACKGROUND-POSITION: -144px -16px
+}
+.ui-icon-arrow-1-n {
+	BACKGROUND-POSITION: 0px -32px
+}
+.ui-icon-arrow-1-ne {
+	BACKGROUND-POSITION: -16px -32px
+}
+.ui-icon-arrow-1-e {
+	BACKGROUND-POSITION: -32px -32px
+}
+.ui-icon-arrow-1-se {
+	BACKGROUND-POSITION: -48px -32px
+}
+.ui-icon-arrow-1-s {
+	BACKGROUND-POSITION: -64px -32px
+}
+.ui-icon-arrow-1-sw {
+	BACKGROUND-POSITION: -80px -32px
+}
+.ui-icon-arrow-1-w {
+	BACKGROUND-POSITION: -96px -32px
+}
+.ui-icon-arrow-1-nw {
+	BACKGROUND-POSITION: -112px -32px
+}
+.ui-icon-arrow-2-n-s {
+	BACKGROUND-POSITION: -128px -32px
+}
+.ui-icon-arrow-2-ne-sw {
+	BACKGROUND-POSITION: -144px -32px
+}
+.ui-icon-arrow-2-e-w {
+	BACKGROUND-POSITION: -160px -32px
+}
+.ui-icon-arrow-2-se-nw {
+	BACKGROUND-POSITION: -176px -32px
+}
+.ui-icon-arrowstop-1-n {
+	BACKGROUND-POSITION: -192px -32px
+}
+.ui-icon-arrowstop-1-e {
+	BACKGROUND-POSITION: -208px -32px
+}
+.ui-icon-arrowstop-1-s {
+	BACKGROUND-POSITION: -224px -32px
+}
+.ui-icon-arrowstop-1-w {
+	BACKGROUND-POSITION: -240px -32px
+}
+.ui-icon-arrowthick-1-n {
+	BACKGROUND-POSITION: 0px -48px
+}
+.ui-icon-arrowthick-1-ne {
+	BACKGROUND-POSITION: -16px -48px
+}
+.ui-icon-arrowthick-1-e {
+	BACKGROUND-POSITION: -32px -48px
+}
+.ui-icon-arrowthick-1-se {
+	BACKGROUND-POSITION: -48px -48px
+}
+.ui-icon-arrowthick-1-s {
+	BACKGROUND-POSITION: -64px -48px
+}
+.ui-icon-arrowthick-1-sw {
+	BACKGROUND-POSITION: -80px -48px
+}
+.ui-icon-arrowthick-1-w {
+	BACKGROUND-POSITION: -96px -48px
+}
+.ui-icon-arrowthick-1-nw {
+	BACKGROUND-POSITION: -112px -48px
+}
+.ui-icon-arrowthick-2-n-s {
+	BACKGROUND-POSITION: -128px -48px
+}
+.ui-icon-arrowthick-2-ne-sw {
+	BACKGROUND-POSITION: -144px -48px
+}
+.ui-icon-arrowthick-2-e-w {
+	BACKGROUND-POSITION: -160px -48px
+}
+.ui-icon-arrowthick-2-se-nw {
+	BACKGROUND-POSITION: -176px -48px
+}
+.ui-icon-arrowthickstop-1-n {
+	BACKGROUND-POSITION: -192px -48px
+}
+.ui-icon-arrowthickstop-1-e {
+	BACKGROUND-POSITION: -208px -48px
+}
+.ui-icon-arrowthickstop-1-s {
+	BACKGROUND-POSITION: -224px -48px
+}
+.ui-icon-arrowthickstop-1-w {
+	BACKGROUND-POSITION: -240px -48px
+}
+.ui-icon-arrowreturnthick-1-w {
+	BACKGROUND-POSITION: 0px -64px
+}
+.ui-icon-arrowreturnthick-1-n {
+	BACKGROUND-POSITION: -16px -64px
+}
+.ui-icon-arrowreturnthick-1-e {
+	BACKGROUND-POSITION: -32px -64px
+}
+.ui-icon-arrowreturnthick-1-s {
+	BACKGROUND-POSITION: -48px -64px
+}
+.ui-icon-arrowreturn-1-w {
+	BACKGROUND-POSITION: -64px -64px
+}
+.ui-icon-arrowreturn-1-n {
+	BACKGROUND-POSITION: -80px -64px
+}
+.ui-icon-arrowreturn-1-e {
+	BACKGROUND-POSITION: -96px -64px
+}
+.ui-icon-arrowreturn-1-s {
+	BACKGROUND-POSITION: -112px -64px
+}
+.ui-icon-arrowrefresh-1-w {
+	BACKGROUND-POSITION: -128px -64px
+}
+.ui-icon-arrowrefresh-1-n {
+	BACKGROUND-POSITION: -144px -64px
+}
+.ui-icon-arrowrefresh-1-e {
+	BACKGROUND-POSITION: -160px -64px
+}
+.ui-icon-arrowrefresh-1-s {
+	BACKGROUND-POSITION: -176px -64px
+}
+.ui-icon-arrow-4 {
+	BACKGROUND-POSITION: 0px -80px
+}
+.ui-icon-arrow-4-diag {
+	BACKGROUND-POSITION: -16px -80px
+}
+.ui-icon-extlink {
+	BACKGROUND-POSITION: -32px -80px
+}
+.ui-icon-newwin {
+	BACKGROUND-POSITION: -48px -80px
+}
+.ui-icon-refresh {
+	BACKGROUND-POSITION: -64px -80px
+}
+.ui-icon-shuffle {
+	BACKGROUND-POSITION: -80px -80px
+}
+.ui-icon-transfer-e-w {
+	BACKGROUND-POSITION: -96px -80px
+}
+.ui-icon-transferthick-e-w {
+	BACKGROUND-POSITION: -112px -80px
+}
+.ui-icon-folder-collapsed {
+	BACKGROUND-POSITION: 0px -96px
+}
+.ui-icon-folder-open {
+	BACKGROUND-POSITION: -16px -96px
+}
+.ui-icon-document {
+	BACKGROUND-POSITION: -32px -96px
+}
+.ui-icon-document-b {
+	BACKGROUND-POSITION: -48px -96px
+}
+.ui-icon-note {
+	BACKGROUND-POSITION: -64px -96px
+}
+.ui-icon-mail-closed {
+	BACKGROUND-POSITION: -80px -96px
+}
+.ui-icon-mail-open {
+	BACKGROUND-POSITION: -96px -96px
+}
+.ui-icon-suitcase {
+	BACKGROUND-POSITION: -112px -96px
+}
+.ui-icon-comment {
+	BACKGROUND-POSITION: -128px -96px
+}
+.ui-icon-person {
+	BACKGROUND-POSITION: -144px -96px
+}
+.ui-icon-print {
+	BACKGROUND-POSITION: -160px -96px
+}
+.ui-icon-trash {
+	BACKGROUND-POSITION: -176px -96px
+}
+.ui-icon-locked {
+	BACKGROUND-POSITION: -192px -96px
+}
+.ui-icon-unlocked {
+	BACKGROUND-POSITION: -208px -96px
+}
+.ui-icon-bookmark {
+	BACKGROUND-POSITION: -224px -96px
+}
+.ui-icon-tag {
+	BACKGROUND-POSITION: -240px -96px
+}
+.ui-icon-home {
+	BACKGROUND-POSITION: 0px -112px
+}
+.ui-icon-flag {
+	BACKGROUND-POSITION: -16px -112px
+}
+.ui-icon-calendar {
+	BACKGROUND-POSITION: -32px -112px
+}
+.ui-icon-cart {
+	BACKGROUND-POSITION: -48px -112px
+}
+.ui-icon-pencil {
+	BACKGROUND-POSITION: -64px -112px
+}
+.ui-icon-clock {
+	BACKGROUND-POSITION: -80px -112px
+}
+.ui-icon-disk {
+	BACKGROUND-POSITION: -96px -112px
+}
+.ui-icon-calculator {
+	BACKGROUND-POSITION: -112px -112px
+}
+.ui-icon-zoomin {
+	BACKGROUND-POSITION: -128px -112px
+}
+.ui-icon-zoomout {
+	BACKGROUND-POSITION: -144px -112px
+}
+.ui-icon-search {
+	BACKGROUND-POSITION: -160px -112px
+}
+.ui-icon-wrench {
+	BACKGROUND-POSITION: -176px -112px
+}
+.ui-icon-gear {
+	BACKGROUND-POSITION: -192px -112px
+}
+.ui-icon-heart {
+	BACKGROUND-POSITION: -208px -112px
+}
+.ui-icon-star {
+	BACKGROUND-POSITION: -224px -112px
+}
+.ui-icon-link {
+	BACKGROUND-POSITION: -240px -112px
+}
+.ui-icon-cancel {
+	BACKGROUND-POSITION: 0px -128px
+}
+.ui-icon-plus {
+	BACKGROUND-POSITION: -16px -128px
+}
+.ui-icon-plusthick {
+	BACKGROUND-POSITION: -32px -128px
+}
+.ui-icon-minus {
+	BACKGROUND-POSITION: -48px -128px
+}
+.ui-icon-minusthick {
+	BACKGROUND-POSITION: -64px -128px
+}
+.ui-icon-close {
+	BACKGROUND-POSITION: -80px -128px
+}
+.ui-icon-closethick {
+	BACKGROUND-POSITION: -96px -128px
+}
+.ui-icon-key {
+	BACKGROUND-POSITION: -112px -128px
+}
+.ui-icon-lightbulb {
+	BACKGROUND-POSITION: -128px -128px
+}
+.ui-icon-scissors {
+	BACKGROUND-POSITION: -144px -128px
+}
+.ui-icon-clipboard {
+	BACKGROUND-POSITION: -160px -128px
+}
+.ui-icon-copy {
+	BACKGROUND-POSITION: -176px -128px
+}
+.ui-icon-contact {
+	BACKGROUND-POSITION: -192px -128px
+}
+.ui-icon-image {
+	BACKGROUND-POSITION: -208px -128px
+}
+.ui-icon-video {
+	BACKGROUND-POSITION: -224px -128px
+}
+.ui-icon-script {
+	BACKGROUND-POSITION: -240px -128px
+}
+.ui-icon-alert {
+	BACKGROUND-POSITION: 0px -144px
+}
+.ui-icon-info {
+	BACKGROUND-POSITION: -16px -144px
+}
+.ui-icon-notice {
+	BACKGROUND-POSITION: -32px -144px
+}
+.ui-icon-help {
+	BACKGROUND-POSITION: -48px -144px
+}
+.ui-icon-check {
+	BACKGROUND-POSITION: -64px -144px
+}
+.ui-icon-bullet {
+	BACKGROUND-POSITION: -80px -144px
+}
+.ui-icon-radio-off {
+	BACKGROUND-POSITION: -96px -144px
+}
+.ui-icon-radio-on {
+	BACKGROUND-POSITION: -112px -144px
+}
+.ui-icon-pin-w {
+	BACKGROUND-POSITION: -128px -144px
+}
+.ui-icon-pin-s {
+	BACKGROUND-POSITION: -144px -144px
+}
+.ui-icon-play {
+	BACKGROUND-POSITION: 0px -160px
+}
+.ui-icon-pause {
+	BACKGROUND-POSITION: -16px -160px
+}
+.ui-icon-seek-next {
+	BACKGROUND-POSITION: -32px -160px
+}
+.ui-icon-seek-prev {
+	BACKGROUND-POSITION: -48px -160px
+}
+.ui-icon-seek-end {
+	BACKGROUND-POSITION: -64px -160px
+}
+.ui-icon-seek-start {
+	BACKGROUND-POSITION: -80px -160px
+}
+.ui-icon-seek-first {
+	BACKGROUND-POSITION: -80px -160px
+}
+.ui-icon-stop {
+	BACKGROUND-POSITION: -96px -160px
+}
+.ui-icon-eject {
+	BACKGROUND-POSITION: -112px -160px
+}
+.ui-icon-volume-off {
+	BACKGROUND-POSITION: -128px -160px
+}
+.ui-icon-volume-on {
+	BACKGROUND-POSITION: -144px -160px
+}
+.ui-icon-power {
+	BACKGROUND-POSITION: 0px -176px
+}
+.ui-icon-signal-diag {
+	BACKGROUND-POSITION: -16px -176px
+}
+.ui-icon-signal {
+	BACKGROUND-POSITION: -32px -176px
+}
+.ui-icon-battery-0 {
+	BACKGROUND-POSITION: -48px -176px
+}
+.ui-icon-battery-1 {
+	BACKGROUND-POSITION: -64px -176px
+}
+.ui-icon-battery-2 {
+	BACKGROUND-POSITION: -80px -176px
+}
+.ui-icon-battery-3 {
+	BACKGROUND-POSITION: -96px -176px
+}
+.ui-icon-circle-plus {
+	BACKGROUND-POSITION: 0px -192px
+}
+.ui-icon-circle-minus {
+	BACKGROUND-POSITION: -16px -192px
+}
+.ui-icon-circle-close {
+	BACKGROUND-POSITION: -32px -192px
+}
+.ui-icon-circle-triangle-e {
+	BACKGROUND-POSITION: -48px -192px
+}
+.ui-icon-circle-triangle-s {
+	BACKGROUND-POSITION: -64px -192px
+}
+.ui-icon-circle-triangle-w {
+	BACKGROUND-POSITION: -80px -192px
+}
+.ui-icon-circle-triangle-n {
+	BACKGROUND-POSITION: -96px -192px
+}
+.ui-icon-circle-arrow-e {
+	BACKGROUND-POSITION: -112px -192px
+}
+.ui-icon-circle-arrow-s {
+	BACKGROUND-POSITION: -128px -192px
+}
+.ui-icon-circle-arrow-w {
+	BACKGROUND-POSITION: -144px -192px
+}
+.ui-icon-circle-arrow-n {
+	BACKGROUND-POSITION: -160px -192px
+}
+.ui-icon-circle-zoomin {
+	BACKGROUND-POSITION: -176px -192px
+}
+.ui-icon-circle-zoomout {
+	BACKGROUND-POSITION: -192px -192px
+}
+.ui-icon-circle-check {
+	BACKGROUND-POSITION: -208px -192px
+}
+.ui-icon-circlesmall-plus {
+	BACKGROUND-POSITION: 0px -208px
+}
+.ui-icon-circlesmall-minus {
+	BACKGROUND-POSITION: -16px -208px
+}
+.ui-icon-circlesmall-close {
+	BACKGROUND-POSITION: -32px -208px
+}
+.ui-icon-squaresmall-plus {
+	BACKGROUND-POSITION: -48px -208px
+}
+.ui-icon-squaresmall-minus {
+	BACKGROUND-POSITION: -64px -208px
+}
+.ui-icon-squaresmall-close {
+	BACKGROUND-POSITION: -80px -208px
+}
+.ui-icon-grip-dotted-vertical {
+	BACKGROUND-POSITION: 0px -224px
+}
+.ui-icon-grip-dotted-horizontal {
+	BACKGROUND-POSITION: -16px -224px
+}
+.ui-icon-grip-solid-vertical {
+	BACKGROUND-POSITION: -32px -224px
+}
+.ui-icon-grip-solid-horizontal {
+	BACKGROUND-POSITION: -48px -224px
+}
+.ui-icon-gripsmall-diagonal-se {
+	BACKGROUND-POSITION: -64px -224px
+}
+.ui-icon-grip-diagonal-se {
+	BACKGROUND-POSITION: -80px -224px
+}
+.ui-corner-tl {
+	-moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; border-top-left-radius: 3px
+}
+.ui-corner-tr {
+	-moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; border-top-right-radius: 3px
+}
+.ui-corner-bl {
+	-moz-border-radius-bottomleft: 3px; -webkit-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px
+}
+.ui-corner-br {
+	-moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px
+}
+.ui-corner-top {
+	-moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; border-top-right-radius: 3px
+}
+.ui-corner-bottom {
+	-moz-border-radius-bottomleft: 3px; -webkit-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px
+}
+.ui-corner-right {
+	-moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; border-top-right-radius: 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px
+}
+.ui-corner-left {
+	-moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-bottomleft: 3px; -webkit-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px
+}
+.ui-corner-all {
+	-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px
+}
+.bold-chat-overlay {
+	FILTER: Alpha(Opacity=1); BACKGROUND-COLOR: #fff; CURSOR: pointer; opacity: .00
+}
+.ui-widget-overlay {
+	FILTER: Alpha(Opacity=30); BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_0_000000_40x100.png) #000 repeat-x 50% 50%; opacity: .30
+}
+.ui-widget-shadow {
+	FILTER: Alpha(Opacity=30); PADDING-BOTTOM: 4px; MARGIN: -4px 0px 0px -4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; BACKGROUND: url(//content.abt.com/media/images/layout/jquery_ui/ui-bg_flat_100_7d7d7d_40x100.png) #7d7d7d repeat-x 50% 50%; PADDING-TOP: 4px; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; opacity: .30
+}
+.ui-resizable {
+	POSITION: relative
+}
+.ui-resizable-handle {
+	Z-INDEX: 99999; POSITION: absolute; DISPLAY: block; FONT-SIZE: 0px
+}
+.ui-resizable-disabled .ui-resizable-handle {
+	DISPLAY: none
+}
+.ui-resizable-autohide .ui-resizable-handle {
+	DISPLAY: none
+}
+.ui-resizable-n {
+	WIDTH: 100%; HEIGHT: 7px; TOP: -5px; CURSOR: n-resize; LEFT: 0px
+}
+.ui-resizable-s {
+	WIDTH: 100%; BOTTOM: -5px; HEIGHT: 7px; CURSOR: s-resize; LEFT: 0px
+}
+.ui-resizable-e {
+	WIDTH: 7px; HEIGHT: 100%; TOP: 0px; CURSOR: e-resize; RIGHT: -5px
+}
+.ui-resizable-w {
+	WIDTH: 7px; HEIGHT: 100%; TOP: 0px; CURSOR: w-resize; LEFT: -5px
+}
+.ui-resizable-se {
+	WIDTH: 12px; BOTTOM: 1px; HEIGHT: 12px; CURSOR: se-resize; RIGHT: 1px
+}
+.ui-resizable-sw {
+	WIDTH: 9px; BOTTOM: -5px; HEIGHT: 9px; CURSOR: sw-resize; LEFT: -5px
+}
+.ui-resizable-nw {
+	WIDTH: 9px; HEIGHT: 9px; TOP: -5px; CURSOR: nw-resize; LEFT: -5px
+}
+.ui-resizable-ne {
+	WIDTH: 9px; HEIGHT: 9px; TOP: -5px; CURSOR: ne-resize; RIGHT: -5px
+}
+.ui-selectable-helper {
+	Z-INDEX: 100; BORDER-BOTTOM: black 1px dotted; POSITION: absolute; BORDER-LEFT: black 1px dotted; BORDER-TOP: black 1px dotted; BORDER-RIGHT: black 1px dotted
+}
+.ui-accordion {
+	WIDTH: 100%
+}
+.ui-accordion .ui-accordion-header {
+	POSITION: relative; MARGIN-TOP: 1px; ZOOM: 1; CURSOR: pointer
+}
+.ui-accordion .ui-accordion-li-fix {
+	DISPLAY: inline
+}
+.ui-accordion .ui-accordion-header-active {
+	BORDER-BOTTOM-WIDTH: 0px !important
+}
+.ui-accordion .ui-accordion-header A {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 0.7em; PADDING-RIGHT: 0.5em; DISPLAY: block; FONT-SIZE: 1em; PADDING-TOP: 0.5em
+}
+.ui-accordion-icons .ui-accordion-header A {
+	PADDING-LEFT: 2.2em
+}
+.ui-accordion .ui-accordion-header .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%; LEFT: 0.5em
+}
+.ui-accordion .ui-accordion-content {
+	POSITION: relative; PADDING-BOTTOM: 1em; MARGIN-TOP: -2px; PADDING-LEFT: 2.2em; PADDING-RIGHT: 2.2em; ZOOM: 1; DISPLAY: none; MARGIN-BOTTOM: 2px; BORDER-TOP-WIDTH: 0px; OVERFLOW: auto; TOP: 1px; PADDING-TOP: 1em
+}
+.ui-accordion .ui-accordion-content-active {
+	DISPLAY: block
+}
+.ui-autocomplete {
+	POSITION: absolute; CURSOR: default
+}
+* HTML .ui-autocomplete {
+	WIDTH: 1px
+}
+.ui-menu {
+	PADDING-BOTTOM: 2px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; DISPLAY: block; FLOAT: left; PADDING-TOP: 2px
+}
+.ui-menu .ui-menu {
+	MARGIN-TOP: -3px
+}
+.ui-menu .ui-menu-item {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; ZOOM: 1; FLOAT: left; CLEAR: left; PADDING-TOP: 0px
+}
+.ui-menu .ui-menu-item A {
+	PADDING-BOTTOM: 0.2em; LINE-HEIGHT: 1.5; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; ZOOM: 1; DISPLAY: block; TEXT-DECORATION: none; PADDING-TOP: 0.2em
+}
+.ui-menu .ui-menu-item A.ui-state-hover {
+	MARGIN: -1px; FONT-WEIGHT: normal
+}
+.ui-menu .ui-menu-item A.ui-state-active {
+	MARGIN: -1px; FONT-WEIGHT: normal
+}
+.ui-button {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; ZOOM: 1; DISPLAY: inline-block; OVERFLOW: visible; CURSOR: pointer; MARGIN-RIGHT: 0.1em; TEXT-DECORATION: none !important; PADDING-TOP: 0px
+}
+.ui-button-icon-only {
+	WIDTH: 2.2em
+}
+BUTTON.ui-button-icon-only {
+	WIDTH: 2.4em
+}
+.ui-button-icons-only {
+	WIDTH: 3.4em
+}
+BUTTON.ui-button-icons-only {
+	WIDTH: 3.7em
+}
+.ui-button .ui-button-text {
+	LINE-HEIGHT: 1.4; DISPLAY: block
+}
+.ui-button-text-only .ui-button-text {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; PADDING-TOP: 0.4em
+}
+.ui-button-icon-only .ui-button-text {
+	PADDING-BOTTOM: 0.4em; TEXT-INDENT: -1342177.28px; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; PADDING-TOP: 0.4em
+}
+.ui-button-icons-only .ui-button-text {
+	PADDING-BOTTOM: 0.4em; TEXT-INDENT: -1342177.28px; PADDING-LEFT: 0.4em; PADDING-RIGHT: 0.4em; PADDING-TOP: 0.4em
+}
+.ui-button-text-icon-primary .ui-button-text {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 2.1em; PADDING-RIGHT: 1em; PADDING-TOP: 0.4em
+}
+.ui-button-text-icons .ui-button-text {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 2.1em; PADDING-RIGHT: 1em; PADDING-TOP: 0.4em
+}
+.ui-button-text-icon-secondary .ui-button-text {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 1em; PADDING-RIGHT: 2.1em; PADDING-TOP: 0.4em
+}
+.ui-button-text-icons .ui-button-text {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 1em; PADDING-RIGHT: 2.1em; PADDING-TOP: 0.4em
+}
+.ui-button-text-icons .ui-button-text {
+	PADDING-LEFT: 2.1em; PADDING-RIGHT: 2.1em
+}
+INPUT.ui-button {
+	PADDING-BOTTOM: 0.4em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; PADDING-TOP: 0.4em
+}
+.ui-button-icon-only .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%
+}
+.ui-button-text-icon-primary .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%
+}
+.ui-button-text-icon-secondary .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%
+}
+.ui-button-text-icons .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%
+}
+.ui-button-icons-only .ui-icon {
+	POSITION: absolute; MARGIN-TOP: -8px; TOP: 50%
+}
+.ui-button-icon-only .ui-icon {
+	MARGIN-LEFT: -8px; LEFT: 50%
+}
+.ui-button-text-icon-primary .ui-button-icon-primary {
+	LEFT: 0.5em
+}
+.ui-button-text-icons .ui-button-icon-primary {
+	LEFT: 0.5em
+}
+.ui-button-icons-only .ui-button-icon-primary {
+	LEFT: 0.5em
+}
+.ui-button-text-icon-secondary .ui-button-icon-secondary {
+	RIGHT: 0.5em
+}
+.ui-button-text-icons .ui-button-icon-secondary {
+	RIGHT: 0.5em
+}
+.ui-button-icons-only .ui-button-icon-secondary {
+	RIGHT: 0.5em
+}
+.ui-button-text-icons .ui-button-icon-secondary {
+	RIGHT: 0.5em
+}
+.ui-button-icons-only .ui-button-icon-secondary {
+	RIGHT: 0.5em
+}
+.ui-buttonset {
+	MARGIN-RIGHT: 7px
+}
+.ui-buttonset .ui-button {
+	MARGIN-LEFT: 0px; MARGIN-RIGHT: -0.3em
+}
+BUTTON.ui-button:unknown {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.ui-dialog {
+	POSITION: absolute; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; WIDTH: 300px; PADDING-RIGHT: 0.2em; OVERFLOW: hidden; PADDING-TOP: 0.2em
+}
+.ui-dialog .ui-dialog-titlebar {
+	POSITION: relative; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; PADDING-TOP: 0.5em
+}
+.ui-dialog .ui-dialog-title {
+	MARGIN: 0.1em 16px 0.2em 0px; FLOAT: left
+}
+.ui-dialog .ui-dialog-titlebar-close {
+	POSITION: absolute; PADDING-BOTTOM: 1px; MARGIN: -10px 0px 0px; PADDING-LEFT: 1px; WIDTH: 19px; PADDING-RIGHT: 1px; HEIGHT: 18px; TOP: 50%; RIGHT: 0.3em; PADDING-TOP: 1px
+}
+.ui-dialog .ui-dialog-titlebar-close SPAN {
+	MARGIN: 1px; DISPLAY: block
+}
+.ui-dialog .ui-dialog-titlebar-close:hover {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-dialog .ui-dialog-titlebar-close:focus {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-dialog .ui-dialog-content {
+	POSITION: relative; PADDING-BOTTOM: 0.5em; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; ZOOM: 1; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; OVERFLOW: auto; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0.5em
+}
+.ui-dialog .ui-dialog-buttonpane {
+	BACKGROUND-IMAGE: none; TEXT-ALIGN: left; PADDING-BOTTOM: 0.5em; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0.5em 0px 0px; PADDING-LEFT: 0.4em; PADDING-RIGHT: 1em; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0.3em
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	FLOAT: right
+}
+.ui-dialog .ui-dialog-buttonpane BUTTON {
+	MARGIN: 0.5em 0.4em 0.5em 0px; CURSOR: pointer
+}
+.ui-dialog .ui-resizable-se {
+	WIDTH: 14px; BOTTOM: 3px; HEIGHT: 14px; RIGHT: 3px
+}
+.ui-draggable .ui-dialog-titlebar {
+	CURSOR: move
+}
+.ui-slider {
+	POSITION: relative; TEXT-ALIGN: left
+}
+.ui-slider .ui-slider-handle {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 1.2em; HEIGHT: 1.2em; CURSOR: default
+}
+.ui-slider .ui-slider-range {
+	Z-INDEX: 1; POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; DISPLAY: block; BACKGROUND-POSITION: 0px 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; FONT-SIZE: 0.7em; BORDER-LEFT-WIDTH: 0px
+}
+.ui-slider-horizontal {
+	HEIGHT: 0.8em
+}
+.ui-slider-horizontal .ui-slider-handle {
+	MARGIN-LEFT: -0.6em; TOP: -0.3em
+}
+.ui-slider-horizontal .ui-slider-range {
+	HEIGHT: 100%; TOP: 0px
+}
+.ui-slider-horizontal .ui-slider-range-min {
+	LEFT: 0px
+}
+.ui-slider-horizontal .ui-slider-range-max {
+	RIGHT: 0px
+}
+.ui-slider-vertical {
+	WIDTH: 0.8em; HEIGHT: 100px
+}
+.ui-slider-vertical .ui-slider-handle {
+	MARGIN-BOTTOM: -0.6em; MARGIN-LEFT: 0px; LEFT: -0.3em
+}
+.ui-slider-vertical .ui-slider-range {
+	WIDTH: 100%; LEFT: 0px
+}
+.ui-slider-vertical .ui-slider-range-min {
+	BOTTOM: 0px
+}
+.ui-slider-vertical .ui-slider-range-max {
+	TOP: 0px
+}
+.ui-tabs {
+	POSITION: relative; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; ZOOM: 1; PADDING-TOP: 0.2em
+}
+.ui-tabs .ui-tabs-nav {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; PADDING-TOP: 0.2em
+}
+.ui-tabs .ui-tabs-nav LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px 0.2em 1px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px !important; TOP: 1px; PADDING-TOP: 0px
+}
+.ui-tabs .ui-tabs-nav LI A {
+	PADDING-BOTTOM: 0.5em; PADDING-LEFT: 1em; PADDING-RIGHT: 1em; FLOAT: left; TEXT-DECORATION: none; PADDING-TOP: 0.5em
+}
+.ui-tabs .ui-tabs-nav LI.ui-tabs-selected {
+	PADDING-BOTTOM: 1px; MARGIN-BOTTOM: 0px
+}
+.ui-tabs .ui-tabs-nav LI.ui-tabs-selected A {
+	CURSOR: text
+}
+.ui-tabs .ui-tabs-nav LI.ui-state-disabled A {
+	CURSOR: text
+}
+.ui-tabs .ui-tabs-nav LI.ui-state-processing A {
+	CURSOR: text
+}
+.ui-tabs .ui-tabs-nav LI A {
+	CURSOR: pointer
+}
+.ui-tabs-collapsible.ui-tabs .ui-tabs-nav LI.ui-tabs-selected A {
+	CURSOR: pointer
+}
+.ui-tabs .ui-tabs-panel {
+	PADDING-BOTTOM: 1em; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 1.4em; PADDING-RIGHT: 1.4em; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 1em
+}
+.ui-tabs .ui-tabs-hide {
+	DISPLAY: none !important
+}
+.ui-datepicker {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0
+}
+.ui-datepicker .ui-datepicker-header {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM: #c3c5c7 1px solid; POSITION: relative; BORDER-LEFT: #c3c5c7 1px solid; PADDING-BOTTOM: 0.3em; BACKGROUND-COLOR: #1b71b8; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #c3c5c7 1px solid; BORDER-RIGHT: #c3c5c7 1px solid; PADDING-TOP: 0.3em; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0
+}
+.ui-datepicker .ui-datepicker-prev {
+	POSITION: absolute; WIDTH: 1.8em; HEIGHT: 1.8em; TOP: 2px
+}
+.ui-datepicker .ui-datepicker-next {
+	POSITION: absolute; WIDTH: 1.8em; HEIGHT: 1.8em; TOP: 2px
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+	TOP: 1px
+}
+.ui-datepicker .ui-datepicker-next-hover {
+	TOP: 1px
+}
+.ui-datepicker .ui-datepicker-prev {
+	LEFT: 2px
+}
+.ui-datepicker .ui-datepicker-next {
+	RIGHT: 2px
+}
+.ui-datepicker .ui-datepicker-prev-hover {
+	LEFT: 1px
+}
+.ui-datepicker .ui-datepicker-next-hover {
+	RIGHT: 1px
+}
+.ui-datepicker .ui-datepicker-prev SPAN {
+	POSITION: absolute; MARGIN-TOP: -8px; DISPLAY: block; MARGIN-LEFT: -8px; TOP: 50%; LEFT: 50%
+}
+.ui-datepicker .ui-datepicker-next SPAN {
+	POSITION: absolute; MARGIN-TOP: -8px; DISPLAY: block; MARGIN-LEFT: -8px; TOP: 50%; LEFT: 50%
+}
+.ui-datepicker .ui-datepicker-title {
+	TEXT-ALIGN: center; LINE-HEIGHT: 1.8em; MARGIN: 0px 2.3em; COLOR: #fff
+}
+.ui-datepicker .ui-datepicker-title SELECT {
+	MARGIN: 1px 0px; FONT-SIZE: 11px
+}
+.ui-datepicker SELECT.ui-datepicker-month-year {
+	WIDTH: 100%
+}
+.ui-datepicker SELECT.ui-datepicker-month {
+	WIDTH: 49%
+}
+.ui-datepicker SELECT.ui-datepicker-year {
+	WIDTH: 49%
+}
+.ui-datepicker TABLE {
+	BACKGROUND-COLOR: #c3c5c7; MARGIN: 0px; BORDER-SPACING: 1px; WIDTH: 100%; ZOOM: 1; BORDER-COLLAPSE: separate; ; BORDER-COLLAPSE: expression('separate',cellSpacing = '1px'); HEIGHT: 1%; FONT-SIZE: 11px
+}
+.ui-datepicker TH {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #cfd7ed; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000; FONT-SIZE: 11px; BORDER-LEFT-WIDTH: 0px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.ui-datepicker TD {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #ebecf0; PADDING-LEFT: 0px; WIDTH: 14.28% !important; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.ui-datepicker TD SPAN {
+	BACKGROUND-IMAGE: none !important; TEXT-ALIGN: center; PADDING-BOTTOM: 6px; BORDER-RIGHT-WIDTH: 0px !important; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; DISPLAY: block; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 11px; BORDER-LEFT-WIDTH: 0px !important; FONT-WEIGHT: bold !important; TEXT-DECORATION: none; PADDING-TOP: 6px
+}
+.ui-datepicker TD A {
+	BACKGROUND-IMAGE: none !important; TEXT-ALIGN: center; PADDING-BOTTOM: 6px; BORDER-RIGHT-WIDTH: 0px !important; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; DISPLAY: block; BORDER-TOP-WIDTH: 0px !important; BORDER-BOTTOM-WIDTH: 0px !important; FONT-SIZE: 11px; BORDER-LEFT-WIDTH: 0px !important; FONT-WEIGHT: bold !important; TEXT-DECORATION: none; PADDING-TOP: 6px
+}
+.ui-datepicker .ui-datepicker-buttonpane {
+	BACKGROUND-IMAGE: none; PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; MARGIN: 0.7em 0px 0px; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.ui-datepicker .ui-datepicker-buttonpane BUTTON {
+	PADDING-BOTTOM: 0.3em; MARGIN: 0.5em 0.2em 0.4em; PADDING-LEFT: 0.6em; WIDTH: auto; PADDING-RIGHT: 0.6em; FLOAT: right; OVERFLOW: visible; CURSOR: pointer; PADDING-TOP: 0.2em
+}
+.ui-datepicker .ui-datepicker-buttonpane BUTTON.ui-datepicker-current {
+	FLOAT: left
+}
+.ui-datepicker .ui-datepicker-calendar .ui-state-disabled {
+	FILTER: Alpha(Opacity=100); opacity: 1
+}
+.ui-datepicker TD A.ui-state-default {
+	BACKGROUND: #fff; COLOR: #000
+}
+.ui-datepicker TD A.ui-state-default:hover {
+	COLOR: #1b71b8; TEXT-DECORATION: underline
+}
+.ui-datepicker TD SPAN.ui-state-default {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.ui-datepicker .ui-datepicker-calendar .ui-datepicker-unselectable SPAN {
+	COLOR: #888
+}
+.ui-datepicker .ui-datepicker-calendar .ui-datepicker-today {
+	BACKGROUND-COLOR: #333; COLOR: #fff
+}
+.ui-datepicker .ui-datepicker-calendar .ui-datepicker-today SPAN {
+	COLOR: #fff
+}
+.ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day A {
+	BACKGROUND-COLOR: #f90; COLOR: #fff
+}
+.ui-datepicker .ui-datepicker-calendar .ui-datepicker-current-day A:hover {
+	COLOR: #fff
+}
+.ui-datepicker-multi.ui-datepicker {
+	WIDTH: auto !important
+}
+.ui-datepicker-multi .ui-datepicker-group {
+	FLOAT: left; MARGIN-RIGHT: 6px
+}
+.ui-datepicker-multi .ui-datepicker-group TABLE {
+	MARGIN: 0px; WIDTH: 100%
+}
+.ui-datepicker-multi-2 .ui-datepicker-group {
+	WIDTH: 210px
+}
+.ui-datepicker-multi-3 .ui-datepicker-group {
+	WIDTH: 28em
+}
+.ui-datepicker-multi-4 .ui-datepicker-group {
+	WIDTH: 28em
+}
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header {
+	BORDER-LEFT-WIDTH: 0px
+}
+.ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header {
+	BORDER-LEFT-WIDTH: 0px
+}
+.ui-datepicker-multi .ui-datepicker-buttonpane {
+	CLEAR: left
+}
+.ui-datepicker-row-break {
+	WIDTH: 100%; CLEAR: both
+}
+.ui-datepicker-rtl {
+	DIRECTION: rtl
+}
+.ui-datepicker-rtl .ui-datepicker-prev {
+	RIGHT: 2px; LEFT: auto
+}
+.ui-datepicker-rtl .ui-datepicker-next {
+	RIGHT: auto; LEFT: 2px
+}
+.ui-datepicker-rtl .ui-datepicker-prev:hover {
+	RIGHT: 1px; LEFT: auto
+}
+.ui-datepicker-rtl .ui-datepicker-next:hover {
+	RIGHT: auto; LEFT: 1px
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane {
+	CLEAR: right
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane BUTTON {
+	FLOAT: left
+}
+.ui-datepicker-rtl .ui-datepicker-buttonpane BUTTON.ui-datepicker-current {
+	FLOAT: right
+}
+.ui-datepicker-rtl .ui-datepicker-group {
+	FLOAT: right
+}
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px
+}
+.ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px
+}
+.ui-datepicker-cover {
+	Z-INDEX: -1; POSITION: absolute; FILTER: mask(); WIDTH: 200px; DISPLAY: block; HEIGHT: 200px; TOP: -4px; LEFT: -4px
+}
+.ui-progressbar {
+	TEXT-ALIGN: left; HEIGHT: 2em
+}
+.ui-progressbar .ui-progressbar-value {
+	MARGIN: -1px; HEIGHT: 100%
+}

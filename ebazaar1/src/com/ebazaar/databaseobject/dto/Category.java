@@ -4,15 +4,18 @@ import java.util.Date;
 import java.util.List;
 
 import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+import javax.persistence.Table;
 
-import org.hibernate.annotations.Entity;
 
 
 @Entity
+@Table(name="Category")
 public class Category {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -25,9 +28,7 @@ public class Category {
 	private Date cpd;
 	@Column
 	private Date upd;
-
-	
-	@OneToMany(mappedBy="categoryId")
+	@OneToMany(fetch = FetchType.LAZY,mappedBy="category")
 	private List<SubCategory> subCategories;
 	
 	public List<SubCategory> getSubCategories() {

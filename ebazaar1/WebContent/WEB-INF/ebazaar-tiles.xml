@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+    
+    
+    <definition name="base.definition"
+        template="/jsp/template.jsp">
+        <!-- <put-attribute name="title" value="" /> -->
+        <put-attribute name="header" value="/jsp/header.jsp" />
+        <put-attribute name="menu" value="/jsp/menu.jsp" />
+        <put-attribute name="subHeader" value="/jsp/subHeader.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer" value="/jsp/footer.jsp" />
+    </definition>
+ 
+    <definition name="home" extends="base.definition">
+        <!-- <put-attribute name="title" value="eBazaar.com" /> -->
+        <put-attribute name="body" value="/jsp/webHome.jsp" />
+    </definition>
+    
+    <definition name="itemListing" extends="base.definition">
+        <put-attribute name="body" value="itemListing.page" />
+    </definition>
+
+
+	<definition name="itemListing.page" template="/jsp/products.jsp">
+		<put-attribute name="leftPanel" value="/jsp/leftPanel.jsp" />
+		<put-attribute name="productCaptionTop" value="/jsp/productCaptionTop.jsp" />
+	    <put-attribute name="pagination" value="/jsp/pagination.jsp" />
+        <put-attribute name="itemListHeader" value="/jsp/itemListHeader.jsp" />
+        <put-attribute name="itemList" value="/jsp/itemList.jsp" />
+        <put-attribute name="itemListFooter" value="/jsp/itemListFooter.jsp" />
+        <put-attribute name="productCaptionBottom" value="/jsp/productCaptionBottom.jsp" />
+        <put-attribute name="rightPanel" value="/jsp/rightPanel.jsp" />
+    </definition> 
+</tiles-definitions>

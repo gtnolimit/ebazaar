@@ -3,14 +3,16 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<bean id="customerRegService"
-		class="org.himu.ibank.service.StandardCustomerRegistrationService">
-		<property name="custDao" ref="customerDao" />
-	</bean>
+	
 
 	<bean id="homePageService"
 		class="com.ebazaar.service.impl.HomePageServiceImpl">
 		<property name="homePageDAO" ref="homePageDAO" />
 	</bean>
-
+	
+	<bean id="productListingPageService"
+		class="com.ebazaar.service.impl.ProductListingPageServiceImpl">
+		<property name="productListingPageDAO" ref="productListingPageDAO" />
+	</bean>
+	
 </beans>

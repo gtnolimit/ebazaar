@@ -1,6 +1,7 @@
 package com.ebazaar.transferobject.dto;
 
 import java.util.Date;
+import java.util.List;
 
 public class SubCategoryDTO {
 	private Long categoryId;
@@ -8,6 +9,15 @@ public class SubCategoryDTO {
 	private String attribute;
 	private Date cpd;
 	private Date upd;
+	private List<ProductDTO> products;
+	
+	
+	public List<ProductDTO> getProducts() {
+		return products;
+	}
+	public void setProducts(List<ProductDTO> products) {
+		this.products = products;
+	}
 	public Long getCategoryId() {
 		return categoryId;
 	}

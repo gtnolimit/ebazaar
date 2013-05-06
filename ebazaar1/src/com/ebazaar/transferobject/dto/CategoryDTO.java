@@ -9,7 +9,15 @@ public class CategoryDTO {
 	private Date cpd;
 	private Date upd;
 	private List<SubCategoryDTO> subCategoryDTOs;
+	private int subCategoryCount;
 	
+	
+	public int getSubCategoryCount() {
+		return subCategoryCount;
+	}
+	public void setSubCategoryCount(int subCategoryCount) {
+		this.subCategoryCount = subCategoryCount;
+	}
 	public List<SubCategoryDTO> getSubCategoryDTOs() {
 		return subCategoryDTOs;
 	}

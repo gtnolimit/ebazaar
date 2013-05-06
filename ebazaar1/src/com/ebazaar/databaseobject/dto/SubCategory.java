@@ -1,16 +1,22 @@
 package com.ebazaar.databaseobject.dto;
 
 import java.util.Date;
+import java.util.List;
 
 import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
 
-import org.hibernate.annotations.Entity;
+
 @Entity
+@Table(name="SubCategory")
 public class SubCategory {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
@@ -23,11 +29,21 @@ public class SubCategory {
 	private Date cpd;
 	@Column
 	private Date upd;
-	
-	@ManyToOne
+	@ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name="CATEGORY_ID")
-	private Long categoryId;
+	private Category category;
 	
+	
+	
+	@OneToMany(fetch = FetchType.LAZY, mappedBy="subCategory")
+	private List<Product> products;
+	
+	public List<Product> getProducts() {
+		return products;
+	}
+	public void setProducts(List<Product> products) {
+		this.products = products;
+	}
 	public Long getSubCategoryId() {
 		return subCategoryId;
 	}
@@ -52,10 +68,11 @@ public class SubCategory {
 	public void setUpd(Date upd) {
 		this.upd = upd;
 	}
-	public Long getCategoryId() {
-		return categoryId;
+	public Category getCategory() {
+		return category;
 	}
-	public void setCategoryId(Long categoryId) {
-		this.categoryId = categoryId;
+	public void setCategory(Category category) {
+		this.category = category;
 	}
+	
 }

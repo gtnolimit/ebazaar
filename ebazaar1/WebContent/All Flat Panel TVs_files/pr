@@ -1,0 +1,40 @@
+(function() { 
+steelhouse = { 
+	cadd: function(obj, etype, fn, cap) { 
+		cap = cap || false; 
+		if (obj.addEventListener) obj.addEventListener(etype, fn, cap); 
+		else if (obj.attachEvent) obj.attachEvent("on" + etype, fn); 
+	}, 
+	cload: function() { 
+		var st = document.createElement('script'); 
+		var sturl = 'rto.steelhousemedia.com/serve?ms=262144&aid=&eid=110&guid=c3cc85a8-2282-4de3-94d9-cf72ff146d57&cb=1367513555238097&sh_sid='; 
+		st.type = 'text/javascript'; 
+		st.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + sturl; 
+		var list=document.getElementsByTagName('script'); 
+		var last = Number(list.length) -1; 
+		var scpt = document.getElementsByTagName('script')[last]; 
+		scpt.parentNode.insertBefore(st, scpt); 
+	} }; 
+ steelhouse.cload(); 
+})();
+
+(function() { 
+steelhouse = { 
+	cadd: function(obj, etype, fn, cap) { 
+		cap = cap || false; 
+		if (obj.addEventListener) obj.addEventListener(etype, fn, cap); 
+		else if (obj.attachEvent) obj.attachEvent("on" + etype, fn); 
+	}, 
+	cload: function() { 
+		var st = document.createElement('script'); 
+		var sturl = 'cm.g.doubleclick.net/pixel?google_nid=sh&google_sc&google_cm&google_hm=w8yFqCKCTeOU2c9y_xRtVw&sh_hm=w8yFqCKCTeOU2c9y_xRtVw&cb=1367513555244136'; 
+		st.type = 'text/javascript'; 
+		st.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + sturl; 
+		var list=document.getElementsByTagName('script'); 
+		var last = Number(list.length) -1; 
+		var scpt = document.getElementsByTagName('script')[last]; 
+		scpt.parentNode.insertBefore(st, scpt); 
+	} }; 
+ steelhouse.cload(); 
+})();
+
