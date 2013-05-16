@@ -87,9 +87,7 @@ Service</A> </DIV></DIV>
 <TABLE cellSpacing=0 summary="" cellPadding=0 width="100%">
   <TBODY>
   <TR>
-  
-  
-  
+    
   	<% 
   		List<CategoryDTO> categorys = (List<CategoryDTO>)request.getAttribute("categorys");
   

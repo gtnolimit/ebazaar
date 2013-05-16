@@ -98,19 +98,7 @@ Copyright 1997-2013
 <DIV class=bl></DIV>
 <DIV class=bm></DIV>
 <DIV class=br></DIV></DIV>
-<SCRIPT type=text/javascript>
-(function() {
-$("#nxt-search-box").autocomplete({cid:'91a97574122f5b6e0670a80c2904e1a2'});
-$("#nxt-search-box").autocomplete("option", "footer", "");
-$("#nxt-search-box").autocomplete("option", "num_products", 10);
-$("#nxt-search-box").autocomplete("option", "num_terms", 5);
-$.ui.autocomplete.prototype._drawProduct = function (item) {
-var abtimage = "//content.abc.com/image.php/thumb1-" + item.Sku + ".jpg?width=75&height=75&canvas&image="+ item.Imageurl;
 
-return '<img height="50" src="' + abtimage + '"/>' + ' <span style="font-size:10px;font-weight:bold;">' + item.Model + '</span><br>' + this._encapsulateMatches(item.Name)
-};
-})();
-</SCRIPT>
 <!--
 Tag is populated based one your Merchant Center ID (8132297) on date
 2012-08-30 --><!-- PLEASE INCLUDE THIS COMMENT ON THE WEB PAGE WITH THE TAG

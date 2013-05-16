@@ -1,5 +1,5 @@
 <TD vAlign=top width=590><!-- END Site Include Left Navigation -->
-      <DIV style="WIDTH: 590px; VERTICAL-ALIGN: top">
+      <DIV style="WIDTH: 590px; VERTICAL-ALIGN: top" id="productListPanel">
       <DIV style="PADDING-BOTTOM: 10px"><BR>At Abt Electronics, you can shop 
       televisions and find a wide variety of flat-panel TVs that will fit you 
       and your family' s needs. Choose LCD, LED, Plasma, or even 3D TVs from top 

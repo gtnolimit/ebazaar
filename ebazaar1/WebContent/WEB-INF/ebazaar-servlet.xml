@@ -8,9 +8,12 @@
 <prop key="/home.htm">homePageController</prop>
 <prop key="/adminhome.htm">adminHomePageController</prop>
 <prop key="/itemListing.htm">productListingPageController</prop>
+<prop key="/productRefresh.htm">productListingPageController</prop>
+<prop key="itemDetail.htm">itemDetailPageController</prop>
 </props>
 </property>
 </bean>
+
 
 <bean id="viewResolver"
     class="org.springframework.web.servlet.view.UrlBasedViewResolver">
@@ -32,7 +35,6 @@
 <property name="prefix" value=""/>
 <property name="suffix" value=".jsp"/>
 </bean> -->
-
 <bean id="homePageController" class="com.ebazaar.controller.HomePageController">
 	<property name="homePageService" ref="homePageService"/>
 </bean>
@@ -41,9 +43,13 @@
 	<property name="viewName" value="admin/admin"/>
 </bean>
 
+
+
 <bean id="productListingPageController" class="com.ebazaar.controller.ProductListingPageController">
 	<property name="productListingPageService" ref="productListingPageService"/>
 </bean>
-
+<bean id="itemDetailPageController" class="com.ebazaar.controller.ItemDetailPageController">
+	<property name="itemDetailPageService" ref="itemDetailPageService"/>
+</bean>
 </beans>
 

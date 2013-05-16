@@ -14,5 +14,8 @@
 		class="com.ebazaar.service.impl.ProductListingPageServiceImpl">
 		<property name="productListingPageDAO" ref="productListingPageDAO" />
 	</bean>
-	
+	<bean id="itemDetailPageService"
+		class="com.ebazaar.service.impl.ItemDetailPageServiceImpl">
+		<property name="itemDetailDAO" ref="itemDetailDAO" />
+	</bean>
 </beans>

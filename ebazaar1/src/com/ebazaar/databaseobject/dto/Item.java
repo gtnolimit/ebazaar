@@ -1,6 +1,8 @@
 package com.ebazaar.databaseobject.dto;
 
+import java.sql.Date;
 import java.sql.Timestamp;
+
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -30,21 +32,21 @@ public class Item {
 	@Column
 	private String description;
 	@Column
-	private Long specialOfferPrice;
+	private double specialOfferPrice;
 	@Column
-	private Long specialPriceStart;
+	private Date specialPriceStart;
 	@Column
-	private Long specialPriceEnd;
+	private Date specialPriceEnd;
 	@Column
-	private Long salePrice;
+	private double salePrice;
 	@Column
-	private Long listedPrice;
+	private double listedPrice;
 	@Column
 	private Long qty;
 	@Column
-	private Long rebate;
+	private double rebate;
 	@Column
-	private String instock;
+	private Long instock;
 	@Column
 	private String manufactureModelNumber;
 	@Column
@@ -57,8 +59,28 @@ public class Item {
 	private Timestamp upd;
 	@Column
 	private Timestamp cpd;
-
+	@Column
+	private String image;
 	private Long product_id;
+	@ManyToOne(fetch = FetchType.LAZY)
+	@JoinColumn(name = "MANUFACTURE_ID")
+	private Manufacture manufacture;
+	
+	public Manufacture getManufacture() {
+		return manufacture;
+	}
+	public void setManufacture(Manufacture manufacture) {
+		this.manufacture = manufacture;
+	}
+	public void setSalePrice(double salePrice) {
+		this.salePrice = salePrice;
+	}
+	public void setListedPrice(double listedPrice) {
+		this.listedPrice = listedPrice;
+	}
+	public void setRebate(double rebate) {
+		this.rebate = rebate;
+	}
 	
 	public Long getProduct_id() {
 		return product_id;
@@ -66,7 +88,7 @@ public class Item {
 	public void setProduct_id(Long product_id) {
 		this.product_id = product_id;
 	}
-	public Long getSpecialOfferPrice() {
+	public double getSpecialOfferPrice() {
 		return specialOfferPrice;
 	}
 	public Long getItemId() {
@@ -93,34 +115,32 @@ public class Item {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	public Long getSpecilaOfferPrice() {
-		return specialOfferPrice;
-	}
-	public void setSpecialOfferPrice(Long specialOfferPrice) {
+	
+	public void setSpecialOfferPrice(double specialOfferPrice) {
 		this.specialOfferPrice = specialOfferPrice;
 	}
-	public Long getSpecialPriceStart() {
+	public Date getSpecialPriceStart() {
 		return specialPriceStart;
 	}
-	public void setSpecialPriceStart(Long specialPriceStart) {
+	public void setSpecialPriceStart(Date specialPriceStart) {
 		this.specialPriceStart = specialPriceStart;
 	}
-	public Long getSpecialPriceEnd() {
+	public Date getSpecialPriceEnd() {
 		return specialPriceEnd;
 	}
-	public void setSpecialPriceEnd(Long specialPriceEnd) {
+	public void setSpecialPriceEnd(Date specialPriceEnd) {
 		this.specialPriceEnd = specialPriceEnd;
 	}
-	public Long getSalePrice() {
+	public double getSalePrice() {
 		return salePrice;
 	}
-	public void setSalePrice(Long salePrice) {
+	public void setSalePrice(Double salePrice) {
 		this.salePrice = salePrice;
 	}
-	public Long getListedPrice() {
+	public double getListedPrice() {
 		return listedPrice;
 	}
-	public void setListedPrice(Long listedPrice) {
+	public void setListedPrice(Double listedPrice) {
 		this.listedPrice = listedPrice;
 	}
 	public Long getQty() {
@@ -129,16 +149,16 @@ public class Item {
 	public void setQty(Long qty) {
 		this.qty = qty;
 	}
-	public Long getRebate() {
+	public double getRebate() {
 		return rebate;
 	}
-	public void setRebate(Long rebate) {
+	public void setRebate(Double rebate) {
 		this.rebate = rebate;
 	}
-	public String getInstock() {
+	public Long getInstock() {
 		return instock;
 	}
-	public void setInstock(String instock) {
+	public void setInstock(Long instock) {
 		this.instock = instock;
 	}
 	public String getManufactureModelNumber() {

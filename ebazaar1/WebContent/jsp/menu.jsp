@@ -9,9 +9,7 @@
 <TABLE cellSpacing=0 summary="" cellPadding=0 width="100%">
   <TBODY>
   <TR>
-  
-  
-  
+    
   	<% 
   		List<CategoryDTO> categorys = (List<CategoryDTO>)request.getServletContext().getAttribute("categorys");
   
@@ -52,7 +50,7 @@
 			  		for(ProductDTO productDTO : subCategory.getProducts()) {			  		
 			  %>
 
-				  <A class=cl_link href="itemListing.htm?product_id=<%=productDTO.getProductId()%>"><%= productDTO.getAttribute() %></A>
+				  <A class=cl_link href="itemListing.htm?product_id=<%=productDTO.getProductId()%>&amp;pageNumber=1&amp;pageSize=20"><%= productDTO.getAttribute() %></A>
 			  <%
 			  		}
 			  %>

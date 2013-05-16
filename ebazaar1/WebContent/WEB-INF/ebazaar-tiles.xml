@@ -17,13 +17,12 @@
  
     <definition name="home" extends="base.definition">
         <!-- <put-attribute name="title" value="eBazaar.com" /> -->
-        <put-attribute name="body" value="/jsp/webHome.jsp" />
+       <put-attribute name="body" value="/jsp/webHome.jsp" />
     </definition>
     
     <definition name="itemListing" extends="base.definition">
         <put-attribute name="body" value="itemListing.page" />
     </definition>
-
 
 	<definition name="itemListing.page" template="/jsp/products.jsp">
 		<put-attribute name="leftPanel" value="/jsp/leftPanel.jsp" />
@@ -35,4 +34,15 @@
         <put-attribute name="productCaptionBottom" value="/jsp/productCaptionBottom.jsp" />
         <put-attribute name="rightPanel" value="/jsp/rightPanel.jsp" />
     </definition> 
+    
+    <definition name="productRefreshStatus" template="/jsp/productListPanel.jsp">
+    	<put-attribute name="pagination" value="/jsp/pagination.jsp" />
+        <put-attribute name="itemListHeader" value="/jsp/itemListHeader.jsp" />
+        <put-attribute name="itemList" value="/jsp/itemList.jsp" />
+        <put-attribute name="itemListFooter" value="/jsp/itemListFooter.jsp" />
+    </definition>
+    <definition name="itemDetailPage/*" extends="base.definition">
+         <put-attribute name="body" value="{1}" />
+    </definition>
+
 </tiles-definitions>

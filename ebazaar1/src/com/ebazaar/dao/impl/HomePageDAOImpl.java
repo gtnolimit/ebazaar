@@ -27,7 +27,6 @@ public class HomePageDAOImpl extends HibernateDaoSupport implements HomePageDAO{
 	
 	
 	@SuppressWarnings("unchecked")
-	@Override
 	public List<CategoryDTO> listAllCategory() {
 		List<CategoryDTO> categories = new ArrayList<CategoryDTO>();
 		Session session = getSession();

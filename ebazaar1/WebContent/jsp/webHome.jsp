@@ -54,6 +54,8 @@ href="javascript:;">Clear your browsing history.</A></SPAN></DIV></DIV></DIV>
   <LI id=top_rated_tab>Top Rated </LI>
   <LI class=divider></LI>
   <LI id=specials_tab>Specials </LI></UL>
+  
+ <!-- Browse Category starts --> 
 <DIV id=browse_category_contents class="hp_tab_contents shown">
 <DIV id=hp_category_blocks>
 <DIV class=hp_container_block>
@@ -153,6 +155,9 @@ href="category/319/Memory-Cards.html">Memory Cards</A> <A
 class=shop_now href="category/996/Other.html"></A></DIV><A 
 style="BACKGROUND-POSITION: 0px -665px" class=hp_container_image title=Other 
 href="category/996/Other.html"></A></DIV></DIV></DIV>
+<!-- Browse Category  ends -->
+
+
 <DIV id=best_sellers_contents class=hp_tab_contents>Loading...</DIV>
 <DIV id=top_rated_contents class=hp_tab_contents>Loading...</DIV>
 <DIV id=specials_contents class=hp_tab_contents>Loading...</DIV></DIV>

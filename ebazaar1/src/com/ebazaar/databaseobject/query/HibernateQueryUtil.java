@@ -6,7 +6,10 @@ public class HibernateQueryUtil implements QueryUtil{
 	}
 
 	public String getListItems() {
-		return "from com.ebazaar.databaseobject.dto.Item i where i.product_id = :product_id";
+		return "from com.ebazaar.databaseobject.dto.Item i where i.product_id = :product_id order by ";
+	}
+	public String getItem() {
+		return "from com.ebazaar.databaseobject.dto.Item i where i.itemId = :itemId";
 	}
 
 	

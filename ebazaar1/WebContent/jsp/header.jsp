@@ -18,10 +18,28 @@ content=35YmFV_Aw1OLlcQZ8WIdCuJqD4HgSCBa_4YeZpq3qVs>
 type=text/css href="./OnlineStore_files/css.css">
 <SCRIPT type=text/javascript src="./OnlineStore_files/js.php"></SCRIPT>
 <LINK rel=canonical href="">
-<SCRIPT type=text/javascript>
-    ABT.loadGA();
-  </SCRIPT>
+<link href="./OnlineStore_files/css/dcaccordion.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type='text/javascript' src='./OnlineStore_files/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='./OnlineStore_files/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='./OnlineStore_files/js/jquery.dcjqaccordion.2.7.min.js'></script>
+<script type="text/javascript">
+$(document).ready(function($){
+	$('#accordion-1').dcAccordion({
+		eventType: 'click',
+		autoClose: true,
+		saveState: true,
+		disableLink: true,
+		speed: 'fast',
+		showCount: false,
+		autoExpand: true,
+		cookie	: 'dcjq-accordion-1',
+		classExpand	 : 'dcjq-current-parent'
+	});
 
+});
+</script>
+<link href="./OnlineStore_files/css/skins/graphite.css" rel="stylesheet" type="text/css" />
 <META name=GENERATOR content="MSHTML 8.00.6001.18702"></HEAD>
 <BODY>
 <DIV id=abt_main_shell>

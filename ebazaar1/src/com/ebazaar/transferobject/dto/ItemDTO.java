@@ -1,6 +1,9 @@
 package com.ebazaar.transferobject.dto;
 
+import java.sql.Date;
 import java.sql.Timestamp;
+
+import javax.persistence.Column;
 
 import com.ebazaar.databaseobject.dto.Product;
 
@@ -8,23 +11,41 @@ public class ItemDTO {
 	private Long itemId;
 	private Product product;
 	private String subject;
+
 	private String description;
-	private Long specilaOfferPrice;
-	private Long specialPriceStart;
-	private Long specialPriceEnd;
-	private Long salePrice;
-	private Long listedPrice;
+
+	private double specialOfferPrice;
+
+	private Date specialPriceStart;
+
+	private Date specialPriceEnd;
+
+	private double salePrice;
+
+	private double listedPrice;
+
 	private Long qty;
-	private Long rebate;
-	private String instock;
-	private String manufactureModelNumber;
-	private String barCode;
-	private String pageLocator;
-	private String status;
-	private Timestamp upd;
-	private Timestamp cpd;
 	
+	private double rebate;
+	
+	private Long instock;
+	
+	private String manufactureModelNumber;
+	
+	private String barCode;
+	
+	private String pageLocator;
+	
+	private String status;
+	
+	private Timestamp upd;
+	
+	private Timestamp cpd;
+
 	private Long product_id;
+	
+	private Long manufacture_id;
+	
 	
 	public Long getProduct_id() {
 		return product_id;
@@ -57,34 +78,29 @@ public class ItemDTO {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	public Long getSpecilaOfferPrice() {
-		return specilaOfferPrice;
-	}
-	public void setSpecilaOfferPrice(Long specilaOfferPrice) {
-		this.specilaOfferPrice = specilaOfferPrice;
-	}
-	public Long getSpecialPriceStart() {
+
+	public Date getSpecialPriceStart() {
 		return specialPriceStart;
 	}
-	public void setSpecialPriceStart(Long specialPriceStart) {
+	public void setSpecialPriceStart(Date specialPriceStart) {
 		this.specialPriceStart = specialPriceStart;
 	}
-	public Long getSpecialPriceEnd() {
+	public Date getSpecialPriceEnd() {
 		return specialPriceEnd;
 	}
-	public void setSpecialPriceEnd(Long specialPriceEnd) {
+	public void setSpecialPriceEnd(Date specialPriceEnd) {
 		this.specialPriceEnd = specialPriceEnd;
 	}
-	public Long getSalePrice() {
+	public double getSalePrice() {
 		return salePrice;
 	}
-	public void setSalePrice(Long salePrice) {
+	public void setSalePrice(double salePrice) {
 		this.salePrice = salePrice;
 	}
-	public Long getListedPrice() {
+	public double getListedPrice() {
 		return listedPrice;
 	}
-	public void setListedPrice(Long listedPrice) {
+	public void setListedPrice(double listedPrice) {
 		this.listedPrice = listedPrice;
 	}
 	public Long getQty() {
@@ -93,16 +109,16 @@ public class ItemDTO {
 	public void setQty(Long qty) {
 		this.qty = qty;
 	}
-	public Long getRebate() {
+	public double getRebate() {
 		return rebate;
 	}
-	public void setRebate(Long rebate) {
+	public void setRebate(double rebate) {
 		this.rebate = rebate;
 	}
-	public String getInstock() {
+	public Long getInstock() {
 		return instock;
 	}
-	public void setInstock(String instock) {
+	public void setInstock(Long instock) {
 		this.instock = instock;
 	}
 	public String getManufactureModelNumber() {

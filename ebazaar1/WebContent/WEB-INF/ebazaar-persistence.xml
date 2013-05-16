@@ -28,7 +28,7 @@
 				<value>com.ebazaar.databaseobject.dto.SubCategory</value>
 				<value>com.ebazaar.databaseobject.dto.Product</value>
 				<value>com.ebazaar.databaseobject.dto.Item</value>
-				
+				<value>com.ebazaar.databaseobject.dto.Manufacture</value>
 			</list>
 		</property>
 	</bean>
@@ -41,9 +41,15 @@
 		<property name="sessionFactory" ref="sessionFactory" />
 		<property name="queryUtil" ref="queryUtil"/>
 	</bean>
-	
 	<bean id="productListingPageDAO" class="com.ebazaar.dao.impl.ProductListingPageDAOImpl">
 		<property name="sessionFactory" ref="sessionFactory" />
+
+
 		<property name="queryUtil" ref="queryUtil"/> 
-	</bean>			
+	</bean>		
+	<bean id="itemDetailDAO" class="com.ebazaar.dao.impl.ItemDetailDAOImpl">
+		<property name="sessionFactory" ref="sessionFactory" />
+		<property name="queryUtil" ref="queryUtil"/>
+	</bean>	
+	
 </beans>
